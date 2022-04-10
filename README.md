@@ -6,5 +6,5 @@ The dictionary entries are romanized, although there might be future hangul inpu
 Also, credit isn't necessary, I don't really mind; but if you'd like to, feel free to link back or tag me on my socials (latticenail on Twitter and SoundCloud) so I can see what you've done ^_^
 ## Notes
 * Alternate pronunciation for some syllables by adding 2 or 3 to the end
-* Includes individual ending consonants (i.e. k, ng, l)
+* Includes individual ending consonants (i.e. k, ng, l). Uppercase aliases are included too
 * Includes syllables starting with "f" and "v"
