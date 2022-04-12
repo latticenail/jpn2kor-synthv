@@ -722,7 +722,7 @@
     },
     {
       "w": "go",
-      "p": "g w o"
+      "p": "gw o"
     },
     {
       "w": "gae",
@@ -762,27 +762,27 @@
     },
     {
       "w": "gwa",
-      "p": "g w a"
+      "p": "gw a"
     },
     {
       "w": "gwi",
-      "p": "g w i"
+      "p": "gw i"
     },
     {
       "w": "gwe",
-      "p": "g w e"
+      "p": "gw e"
     },
     {
       "w": "gwae",
-      "p": "g w e"
+      "p": "gw e"
     },
     {
       "w": "gweo",
-      "p": "g w o"
+      "p": "gw o"
     },
     {
       "w": "goe",
-      "p": "g w e"
+      "p": "gw e"
     },
     {
       "w": "geui",
@@ -818,7 +818,7 @@
     },
     {
       "w": "gom",
-      "p": "g w o m"
+      "p": "gw o m"
     },
     {
       "w": "gaem",
@@ -858,27 +858,27 @@
     },
     {
       "w": "gwam",
-      "p": "g w a m"
+      "p": "gw a m"
     },
     {
       "w": "gwim",
-      "p": "g w i m"
+      "p": "gw i m"
     },
     {
       "w": "gwem",
-      "p": "g w e m"
+      "p": "gw e m"
     },
     {
       "w": "gwaem",
-      "p": "g w e m"
+      "p": "gw e m"
     },
     {
       "w": "gweom",
-      "p": "g w o m"
+      "p": "gw o m"
     },
     {
       "w": "goem",
-      "p": "g w e m"
+      "p": "gw e m"
     },
     {
       "w": "geuim",
@@ -914,7 +914,7 @@
     },
     {
       "w": "gon",
-      "p": "g w o n"
+      "p": "gw o n"
     },
     {
       "w": "gaen",
@@ -954,27 +954,27 @@
     },
     {
       "w": "gwan",
-      "p": "g w a n"
+      "p": "gw a n"
     },
     {
       "w": "gwin",
-      "p": "g w i n"
+      "p": "gw i n"
     },
     {
       "w": "gwen",
-      "p": "g w e n"
+      "p": "gw e n"
     },
     {
       "w": "gwaen",
-      "p": "g w e n"
+      "p": "gw e n"
     },
     {
       "w": "gweon",
-      "p": "g w o n"
+      "p": "gw o n"
     },
     {
       "w": "goen",
-      "p": "g w e n"
+      "p": "gw e n"
     },
     {
       "w": "geuin",
@@ -1010,7 +1010,7 @@
     },
     {
       "w": "gong",
-      "p": "g w o N"
+      "p": "gw o N"
     },
     {
       "w": "gaeng",
@@ -1050,27 +1050,27 @@
     },
     {
       "w": "gwang",
-      "p": "g w a N"
+      "p": "gw a N"
     },
     {
       "w": "gwing",
-      "p": "g w i N"
+      "p": "gw i N"
     },
     {
       "w": "gweng",
-      "p": "g w e N"
+      "p": "gw e N"
     },
     {
       "w": "gwaeng",
-      "p": "g w e N"
+      "p": "gw e N"
     },
     {
       "w": "gweong",
-      "p": "g w o N"
+      "p": "gw o N"
     },
     {
       "w": "goeng",
-      "p": "g w e N"
+      "p": "gw e N"
     },
     {
       "w": "geuing",
@@ -1106,7 +1106,7 @@
     },
     {
       "w": "gop",
-      "p": "g w o p"
+      "p": "gw o p"
     },
     {
       "w": "gaep",
@@ -1146,27 +1146,27 @@
     },
     {
       "w": "gwap",
-      "p": "g w a p"
+      "p": "gw a p"
     },
     {
       "w": "gwip",
-      "p": "g w i p"
+      "p": "gw i p"
     },
     {
       "w": "gwep",
-      "p": "g w e p"
+      "p": "gw e p"
     },
     {
       "w": "gwaep",
-      "p": "g w e p"
+      "p": "gw e p"
     },
     {
       "w": "gweop",
-      "p": "g w o p"
+      "p": "gw o p"
     },
     {
       "w": "goep",
-      "p": "g w e p"
+      "p": "gw e p"
     },
     {
       "w": "geuip",
@@ -1202,7 +1202,7 @@
     },
     {
       "w": "got",
-      "p": "g w o t"
+      "p": "gw o t"
     },
     {
       "w": "gaet",
@@ -1242,27 +1242,27 @@
     },
     {
       "w": "gwat",
-      "p": "g w a t"
+      "p": "gw a t"
     },
     {
       "w": "gwit",
-      "p": "g w i t"
+      "p": "gw i t"
     },
     {
       "w": "gwet",
-      "p": "g w e t"
+      "p": "gw e t"
     },
     {
       "w": "gwaet",
-      "p": "g w e t"
+      "p": "gw e t"
     },
     {
       "w": "gweot",
-      "p": "g w o t"
+      "p": "gw o t"
     },
     {
       "w": "goet",
-      "p": "g w e t"
+      "p": "gw e t"
     },
     {
       "w": "geuit",
@@ -1298,7 +1298,7 @@
     },
     {
       "w": "gok",
-      "p": "g w o k"
+      "p": "gw o k"
     },
     {
       "w": "gaek",
@@ -1338,27 +1338,27 @@
     },
     {
       "w": "gwak",
-      "p": "g w a k"
+      "p": "gw a k"
     },
     {
       "w": "gwik",
-      "p": "g w i k"
+      "p": "gw i k"
     },
     {
       "w": "gwek",
-      "p": "g w e k"
+      "p": "gw e k"
     },
     {
       "w": "gwaek",
-      "p": "g w e k"
+      "p": "gw e k"
     },
     {
       "w": "gweok",
-      "p": "g w o k"
+      "p": "gw o k"
     },
     {
       "w": "goek",
-      "p": "g w e k"
+      "p": "gw e k"
     },
     {
       "w": "geuik",
@@ -1394,7 +1394,7 @@
     },
     {
       "w": "gol",
-      "p": "g w o r"
+      "p": "gw o r"
     },
     {
       "w": "gael",
@@ -1434,27 +1434,27 @@
     },
     {
       "w": "gwal",
-      "p": "g w a r"
+      "p": "gw a r"
     },
     {
       "w": "gwil",
-      "p": "g w i r"
+      "p": "gw i r"
     },
     {
       "w": "gwel",
-      "p": "g w e r"
+      "p": "gw e r"
     },
     {
       "w": "gwael",
-      "p": "g w e r"
+      "p": "gw e r"
     },
     {
       "w": "gweol",
-      "p": "g w o r"
+      "p": "gw o r"
     },
     {
       "w": "goel",
-      "p": "g w e r"
+      "p": "gw e r"
     },
     {
       "w": "geuil",
@@ -1471,6 +1471,230 @@
     {
       "w": "geuil2",
       "p": "g i r"
+    },
+    {
+      "w": "go2",
+      "p": "g w o"
+    },
+    {
+      "w": "gwa2",
+      "p": "g w a"
+    },
+    {
+      "w": "gwi2",
+      "p": "g w i"
+    },
+    {
+      "w": "gwe2",
+      "p": "g w e"
+    },
+    {
+      "w": "gwae2",
+      "p": "g w e"
+    },
+    {
+      "w": "gweo2",
+      "p": "g w o"
+    },
+    {
+      "w": "goe2",
+      "p": "g w e"
+    },
+    {
+      "w": "gom2",
+      "p": "g w o m"
+    },
+    {
+      "w": "gwam2",
+      "p": "g w a m"
+    },
+    {
+      "w": "gwim2",
+      "p": "g w i m"
+    },
+    {
+      "w": "gwem2",
+      "p": "g w e m"
+    },
+    {
+      "w": "gwaem2",
+      "p": "g w e m"
+    },
+    {
+      "w": "gweom2",
+      "p": "g w o m"
+    },
+    {
+      "w": "goem2",
+      "p": "g w e m"
+    },
+    {
+      "w": "gon2",
+      "p": "g w o n"
+    },
+    {
+      "w": "gwan2",
+      "p": "g w a n"
+    },
+    {
+      "w": "gwin2",
+      "p": "g w i n"
+    },
+    {
+      "w": "gwen2",
+      "p": "g w e n"
+    },
+    {
+      "w": "gwaen2",
+      "p": "g w e n"
+    },
+    {
+      "w": "gweon2",
+      "p": "g w o n"
+    },
+    {
+      "w": "goen2",
+      "p": "g w e n"
+    },
+    {
+      "w": "gong2"
+      "p": "g w o N"
+    },
+    {
+      "w": "gwang2"
+      "p": "g w a N"
+    },
+    {
+      "w": "gwing2"
+      "p": "g w i N"
+    },
+    {
+      "w": "gweng2"
+      "p": "g w e N"
+    },
+    {
+      "w": "gwaeng2"
+      "p": "g w e N"
+    },
+    {
+      "w": "gweong2"
+      "p": "g w o N"
+    },
+    {
+      "w": "goeng2"
+      "p": "g w e N"
+    },
+    {
+      "w": "gop2"
+      "p": "g w o p"
+    },
+    {
+      "w": "gwap2"
+      "p": "g w a p"
+    },
+    {
+      "w": "gwip2"
+      "p": "g w i p"
+    },
+    {
+      "w": "gwep2"
+      "p": "g w e p"
+    },
+    {
+      "w": "gwaep2"
+      "p": "g w e p"
+    },
+    {
+      "w": "gweop2"
+      "p": "g w o p"
+    },
+    {
+      "w": "goep2"
+      "p": "g w e p"
+    },
+    {
+      "w": "got2"
+      "p": "g w o t"
+    },
+    {
+      "w": "gwat2"
+      "p": "g w a t"
+    },
+    {
+      "w": "gwit2"
+      "p": "g w i t"
+    },
+    {
+      "w": "gwet2"
+      "p": "g w e t"
+    },
+    {
+      "w": "gwaet2"
+      "p": "g w e t"
+    },
+    {
+      "w": "gweot2"
+      "p": "g w o t"
+    },
+    {
+      "w": "goet2"
+      "p": "g w e t"
+    },
+    {
+      "w": "gok2"
+      "p": "g w o k"
+    },
+    {
+      "w": "gwak2"
+      "p": "g w a k"
+    },
+    {
+      "w": "gwik2"
+      "p": "g w i k"
+    },
+    {
+      "w": "gwek2"
+      "p": "g w e k"
+    },
+    {
+      "w": "gwaek2"
+      "p": "g w e k"
+    },
+    {
+      "w": "gweok2"
+      "p": "g w o k"
+    },
+    {
+      "w": "goek2"
+      "p": "g w e k"
+    },
+    {
+      "w": "gol2"
+      "p": "g w o r"
+    },
+    {
+      "w": "gwal2"
+      "p": "g w a r"
+    },
+    {
+      "w": "gwil2"
+      "p": "g w i r"
+    },
+    {
+      "w": "gwel2"
+      "p": "g w e r"
+    },
+    {
+      "w": "gwael2"
+      "p": "g w e r"
+    },
+    {
+      "w": "gweol2"
+      "p": "g w o r"
+    },
+    {
+      "w": "goel2"
+      "p": "g w e r"
     },
     {
       "w": "na",
@@ -10369,6 +10593,453 @@
       "p": "k i r"
     },
     {
+      "w": "ko2",
+      "p": "k w o"
+    },
+    {
+      "w": "kwa2",
+      "p": "k w a"
+    },
+    {
+      "w": "kwi2",
+      "p": "k w i"
+    },
+    {
+      "w": "kwe2",
+      "p": "k w e"
+    },
+    {
+      "w": "kwae2",
+      "p": "k w e"
+    },
+    {
+      "w": "kweo2",
+      "p": "k w o"
+    },
+    {
+      "w": "koe2",
+      "p": "k w e"
+    },
+    {
+      "w": "kom2",
+      "p": "k w o m"
+    },
+    {
+      "w": "kwam2",
+      "p": "k w a m"
+    },
+    {
+      "w": "kwim2",
+      "p": "k w i m"
+    },
+    {
+      "w": "kwem2",
+      "p": "k w e m"
+    },
+    {
+      "w": "kwaem2",
+      "p": "k w e m"
+    },
+    {
+      "w": "kweom2",
+      "p": "k w o m"
+    },
+    {
+      "w": "koem2",
+      "p": "k w e m"
+    },
+    {
+      "w": "kon2",
+      "p": "k w o n"
+    },
+    {
+      "w": "kwan2",
+      "p": "k w a n"
+    },
+    {
+      "w": "kwin2",
+      "p": "k w i n"
+    },
+    {
+      "w": "kwen2",
+      "p": "k w e n"
+    },
+    {
+      "w": "kwaen2",
+      "p": "k w e n"
+    },
+    {
+      "w": "kweon2",
+      "p": "k w o n"
+    },
+    {
+      "w": "koen2",
+      "p": "k w e n"
+    },
+    {
+      "w": "konk2"
+      "p": "k w o N"
+    },
+    {
+      "w": "kwank2"
+      "p": "k w a N"
+    },
+    {
+      "w": "kwink2"
+      "p": "k w i N"
+    },
+    {
+      "w": "kwenk2"
+      "p": "k w e N"
+    },
+    {
+      "w": "kwaenk2"
+      "p": "k w e N"
+    },
+    {
+      "w": "kweonk2"
+      "p": "k w o N"
+    },
+    {
+      "w": "koenk2"
+      "p": "k w e N"
+    },
+    {
+      "w": "kop2"
+      "p": "k w o p"
+    },
+    {
+      "w": "kwap2"
+      "p": "k w a p"
+    },
+    {
+      "w": "kwip2"
+      "p": "k w i p"
+    },
+    {
+      "w": "kwep2"
+      "p": "k w e p"
+    },
+    {
+      "w": "kwaep2"
+      "p": "k w e p"
+    },
+    {
+      "w": "kweop2"
+      "p": "k w o p"
+    },
+    {
+      "w": "koep2"
+      "p": "k w e p"
+    },
+    {
+      "w": "kot2"
+      "p": "k w o t"
+    },
+    {
+      "w": "kwat2"
+      "p": "k w a t"
+    },
+    {
+      "w": "kwit2"
+      "p": "k w i t"
+    },
+    {
+      "w": "kwet2"
+      "p": "k w e t"
+    },
+    {
+      "w": "kwaet2"
+      "p": "k w e t"
+    },
+    {
+      "w": "kweot2"
+      "p": "k w o t"
+    },
+    {
+      "w": "koet2"
+      "p": "k w e t"
+    },
+    {
+      "w": "kok2"
+      "p": "k w o k"
+    },
+    {
+      "w": "kwak2"
+      "p": "k w a k"
+    },
+    {
+      "w": "kwik2"
+      "p": "k w i k"
+    },
+    {
+      "w": "kwek2"
+      "p": "k w e k"
+    },
+    {
+      "w": "kwaek2"
+      "p": "k w e k"
+    },
+    {
+      "w": "kweok2"
+      "p": "k w o k"
+    },
+    {
+      "w": "koek2"
+      "p": "k w e k"
+    },
+    {
+      "w": "kol2"
+      "p": "k w o r"
+    },
+    {
+      "w": "kwal2"
+      "p": "k w a r"
+    },
+    {
+      "w": "kwil2"
+      "p": "k w i r"
+    },
+    {
+      "w": "kwel2"
+      "p": "k w e r"
+    },
+    {
+      "w": "kwael2"
+      "p": "k w e r"
+    },
+    {
+      "w": "kweol2"
+      "p": "k w o r"
+    },
+    {
+      "w": "koel2"
+      "p": "k w e r"
+    },    {
+      "w": "ko2",
+      "p": "k w o"
+    },
+    {
+      "w": "kwa2",
+      "p": "k w a"
+    },
+    {
+      "w": "kwi2",
+      "p": "k w i"
+    },
+    {
+      "w": "kwe2",
+      "p": "k w e"
+    },
+    {
+      "w": "kwae2",
+      "p": "k w e"
+    },
+    {
+      "w": "kweo2",
+      "p": "k w o"
+    },
+    {
+      "w": "koe2",
+      "p": "k w e"
+    },
+    {
+      "w": "kom2",
+      "p": "k w o m"
+    },
+    {
+      "w": "kwam2",
+      "p": "k w a m"
+    },
+    {
+      "w": "kwim2",
+      "p": "k w i m"
+    },
+    {
+      "w": "kwem2",
+      "p": "k w e m"
+    },
+    {
+      "w": "kwaem2",
+      "p": "k w e m"
+    },
+    {
+      "w": "kweom2",
+      "p": "k w o m"
+    },
+    {
+      "w": "koem2",
+      "p": "k w e m"
+    },
+    {
+      "w": "kon2",
+      "p": "k w o n"
+    },
+    {
+      "w": "kwan2",
+      "p": "k w a n"
+    },
+    {
+      "w": "kwin2",
+      "p": "k w i n"
+    },
+    {
+      "w": "kwen2",
+      "p": "k w e n"
+    },
+    {
+      "w": "kwaen2",
+      "p": "k w e n"
+    },
+    {
+      "w": "kweon2",
+      "p": "k w o n"
+    },
+    {
+      "w": "koen2",
+      "p": "k w e n"
+    },
+    {
+      "w": "konk2"
+      "p": "k w o N"
+    },
+    {
+      "w": "kwank2"
+      "p": "k w a N"
+    },
+    {
+      "w": "kwink2"
+      "p": "k w i N"
+    },
+    {
+      "w": "kwenk2"
+      "p": "k w e N"
+    },
+    {
+      "w": "kwaenk2"
+      "p": "k w e N"
+    },
+    {
+      "w": "kweonk2"
+      "p": "k w o N"
+    },
+    {
+      "w": "koenk2"
+      "p": "k w e N"
+    },
+    {
+      "w": "kop2"
+      "p": "k w o p"
+    },
+    {
+      "w": "kwap2"
+      "p": "k w a p"
+    },
+    {
+      "w": "kwip2"
+      "p": "k w i p"
+    },
+    {
+      "w": "kwep2"
+      "p": "k w e p"
+    },
+    {
+      "w": "kwaep2"
+      "p": "k w e p"
+    },
+    {
+      "w": "kweop2"
+      "p": "k w o p"
+    },
+    {
+      "w": "koep2"
+      "p": "k w e p"
+    },
+    {
+      "w": "kot2"
+      "p": "k w o t"
+    },
+    {
+      "w": "kwat2"
+      "p": "k w a t"
+    },
+    {
+      "w": "kwit2"
+      "p": "k w i t"
+    },
+    {
+      "w": "kwet2"
+      "p": "k w e t"
+    },
+    {
+      "w": "kwaet2"
+      "p": "k w e t"
+    },
+    {
+      "w": "kweot2"
+      "p": "k w o t"
+    },
+    {
+      "w": "koet2"
+      "p": "k w e t"
+    },
+    {
+      "w": "kok2"
+      "p": "k w o k"
+    },
+    {
+      "w": "kwak2"
+      "p": "k w a k"
+    },
+    {
+      "w": "kwik2"
+      "p": "k w i k"
+    },
+    {
+      "w": "kwek2"
+      "p": "k w e k"
+    },
+    {
+      "w": "kwaek2"
+      "p": "k w e k"
+    },
+    {
+      "w": "kweok2"
+      "p": "k w o k"
+    },
+    {
+      "w": "koek2"
+      "p": "k w e k"
+    },
+    {
+      "w": "kol2"
+      "p": "k w o r"
+    },
+    {
+      "w": "kwal2"
+      "p": "k w a r"
+    },
+    {
+      "w": "kwil2"
+      "p": "k w i r"
+    },
+    {
+      "w": "kwel2"
+      "p": "k w e r"
+    },
+    {
+      "w": "kwael2"
+      "p": "k w e r"
+    },
+    {
+      "w": "kweol2"
+      "p": "k w o r"
+    },
+    {
+      "w": "koel2"
+      "p": "k w e r"
+    },
+    {
       "w": "ta",
       "p": "t a"
     },
@@ -18624,7 +19295,7 @@
       "w": "feuil2",
       "p": "f i r"
     },
-     {
+    {
       "w": "p",
       "p": "p"
     },
