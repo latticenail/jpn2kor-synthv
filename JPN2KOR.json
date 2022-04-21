@@ -82,7 +82,7 @@
     },
     {
       "w": "eui",
-      "p": "u i"
+      "p": "w i"
     },
     {
       "w": "eui2",
@@ -170,7 +170,7 @@
     },
     {
       "w": "euim",
-      "p": "u i m"
+      "p": "w i m"
     },
     {
       "w": "euim2",
@@ -258,7 +258,7 @@
     },
     {
       "w": "euin",
-      "p": "u i n"
+      "p": "w i n"
     },
     {
       "w": "euin2",
@@ -346,7 +346,7 @@
     },
     {
       "w": "euing",
-      "p": "u i N"
+      "p": "w i N"
     },
     {
       "w": "euing2",
@@ -434,7 +434,7 @@
     },
     {
       "w": "euip",
-      "p": "u i p"
+      "p": "w i p"
     },
     {
       "w": "euip2",
@@ -522,7 +522,7 @@
     },
     {
       "w": "euit",
-      "p": "u i t"
+      "p": "w i t"
     },
     {
       "w": "euit2",
@@ -610,7 +610,7 @@
     },
     {
       "w": "euik",
-      "p": "u i k"
+      "p": "w i k"
     },
     {
       "w": "euik2",
@@ -698,7 +698,7 @@
     },
     {
       "w": "euil",
-      "p": "u i r"
+      "p": "w i r"
     },
     {
       "w": "euil2",
@@ -786,7 +786,7 @@
     },
     {
       "w": "geui",
-      "p": "g u i"
+      "p": "g w i"
     },
     {
       "w": "gye2",
@@ -882,7 +882,7 @@
     },
     {
       "w": "geuim",
-      "p": "g u i m"
+      "p": "g w i m"
     },
     {
       "w": "gyem2",
@@ -978,7 +978,7 @@
     },
     {
       "w": "geuin",
-      "p": "g u i n"
+      "p": "g w i n"
     },
     {
       "w": "gyen2",
@@ -1074,7 +1074,7 @@
     },
     {
       "w": "geuing",
-      "p": "g u i N"
+      "p": "g w i N"
     },
     {
       "w": "gyeng2",
@@ -1170,7 +1170,7 @@
     },
     {
       "w": "geuip",
-      "p": "g u i p"
+      "p": "g w i p"
     },
     {
       "w": "gyep2",
@@ -1266,7 +1266,7 @@
     },
     {
       "w": "geuit",
-      "p": "g u i t"
+      "p": "g w i t"
     },
     {
       "w": "gyet2",
@@ -1362,7 +1362,7 @@
     },
     {
       "w": "geuik",
-      "p": "g u i k"
+      "p": "g w i k"
     },
     {
       "w": "gyek2",
@@ -1458,7 +1458,7 @@
     },
     {
       "w": "geuil",
-      "p": "g u i r"
+      "p": "g w i r"
     },
     {
       "w": "gyel2",
@@ -1810,7 +1810,7 @@
     },
     {
       "w": "neui",
-      "p": "n u i"
+      "p": "n w i"
     },
     {
       "w": "nye2",
@@ -1906,7 +1906,7 @@
     },
     {
       "w": "neuim",
-      "p": "n u i m"
+      "p": "n w i m"
     },
     {
       "w": "nyem2",
@@ -2002,7 +2002,7 @@
     },
     {
       "w": "neuin",
-      "p": "n u i n"
+      "p": "n w i n"
     },
     {
       "w": "nyen2",
@@ -2098,7 +2098,7 @@
     },
     {
       "w": "neuing",
-      "p": "n u i N"
+      "p": "n w i N"
     },
     {
       "w": "nyeng2",
@@ -2194,7 +2194,7 @@
     },
     {
       "w": "neuip",
-      "p": "n u i p"
+      "p": "n w i p"
     },
     {
       "w": "nyep2",
@@ -2290,7 +2290,7 @@
     },
     {
       "w": "neuit",
-      "p": "n u i t"
+      "p": "n w i t"
     },
     {
       "w": "nyet2",
@@ -2386,7 +2386,7 @@
     },
     {
       "w": "neuik",
-      "p": "n u i k"
+      "p": "n w i k"
     },
     {
       "w": "nyek2",
@@ -2482,7 +2482,7 @@
     },
     {
       "w": "neuil",
-      "p": "n u i r"
+      "p": "n w i r"
     },
     {
       "w": "nyel2",
@@ -2578,7 +2578,7 @@
     },
     {
       "w": "deui",
-      "p": "d u i"
+      "p": "d w i"
     },
     {
       "w": "dye2",
@@ -2674,7 +2674,7 @@
     },
     {
       "w": "deuim",
-      "p": "d u i m"
+      "p": "d w i m"
     },
     {
       "w": "dyem2",
@@ -2770,7 +2770,7 @@
     },
     {
       "w": "deuin",
-      "p": "d u i n"
+      "p": "d w i n"
     },
     {
       "w": "dyen2",
@@ -2866,7 +2866,7 @@
     },
     {
       "w": "deuing",
-      "p": "d u i N"
+      "p": "d w i N"
     },
     {
       "w": "dyeng2",
@@ -2962,7 +2962,7 @@
     },
     {
       "w": "deuip",
-      "p": "d u i p"
+      "p": "d w i p"
     },
     {
       "w": "dyep2",
@@ -3058,7 +3058,7 @@
     },
     {
       "w": "deuit",
-      "p": "d u i t"
+      "p": "d w i t"
     },
     {
       "w": "dyet2",
@@ -3154,7 +3154,7 @@
     },
     {
       "w": "deuik",
-      "p": "d u i k"
+      "p": "d w i k"
     },
     {
       "w": "dyek2",
@@ -3250,7 +3250,7 @@
     },
     {
       "w": "deuil",
-      "p": "d u i r"
+      "p": "d w i r"
     },
     {
       "w": "dyel2",
@@ -3346,7 +3346,7 @@
     },
     {
       "w": "reui",
-      "p": "r u i"
+      "p": "r w i"
     },
     {
       "w": "rye2",
@@ -3442,7 +3442,7 @@
     },
     {
       "w": "reuim",
-      "p": "r u i m"
+      "p": "r w i m"
     },
     {
       "w": "ryem2",
@@ -3538,7 +3538,7 @@
     },
     {
       "w": "reuin",
-      "p": "r u i n"
+      "p": "r w i n"
     },
     {
       "w": "ryen2",
@@ -3634,7 +3634,7 @@
     },
     {
       "w": "reuing",
-      "p": "r u i N"
+      "p": "r w i N"
     },
     {
       "w": "ryeng2",
@@ -3730,7 +3730,7 @@
     },
     {
       "w": "reuip",
-      "p": "r u i p"
+      "p": "r w i p"
     },
     {
       "w": "ryep2",
@@ -3826,7 +3826,7 @@
     },
     {
       "w": "reuit",
-      "p": "r u i t"
+      "p": "r w i t"
     },
     {
       "w": "ryet2",
@@ -3922,7 +3922,7 @@
     },
     {
       "w": "reuik",
-      "p": "r u i k"
+      "p": "r w i k"
     },
     {
       "w": "ryek2",
@@ -4018,7 +4018,7 @@
     },
     {
       "w": "reuil",
-      "p": "r u i r"
+      "p": "r w i r"
     },
     {
       "w": "ryel2",
@@ -4114,7 +4114,7 @@
     },
     {
       "w": "leui",
-      "p": "r u i"
+      "p": "r w i"
     },
     {
       "w": "lye2",
@@ -4210,7 +4210,7 @@
     },
     {
       "w": "leuim",
-      "p": "r u i m"
+      "p": "r w i m"
     },
     {
       "w": "lyem2",
@@ -4306,7 +4306,7 @@
     },
     {
       "w": "leuin",
-      "p": "r u i n"
+      "p": "r w i n"
     },
     {
       "w": "lyen2",
@@ -4402,7 +4402,7 @@
     },
     {
       "w": "leuing",
-      "p": "r u i N"
+      "p": "r w i N"
     },
     {
       "w": "lyeng2",
@@ -4498,7 +4498,7 @@
     },
     {
       "w": "leuip",
-      "p": "r u i p"
+      "p": "r w i p"
     },
     {
       "w": "lyep2",
@@ -4594,7 +4594,7 @@
     },
     {
       "w": "leuit",
-      "p": "r u i t"
+      "p": "r w i t"
     },
     {
       "w": "lyet2",
@@ -4690,7 +4690,7 @@
     },
     {
       "w": "leuik",
-      "p": "r u i k"
+      "p": "r w i k"
     },
     {
       "w": "lyek2",
@@ -4786,7 +4786,7 @@
     },
     {
       "w": "leuil",
-      "p": "r u i r"
+      "p": "r w i r"
     },
     {
       "w": "lyel2",
@@ -4882,7 +4882,7 @@
     },
     {
       "w": "meui",
-      "p": "m u i"
+      "p": "m w i"
     },
     {
       "w": "mye2",
@@ -4978,7 +4978,7 @@
     },
     {
       "w": "meuim",
-      "p": "m u i m"
+      "p": "m w i m"
     },
     {
       "w": "myem2",
@@ -5074,7 +5074,7 @@
     },
     {
       "w": "meuin",
-      "p": "m u i n"
+      "p": "m w i n"
     },
     {
       "w": "myen2",
@@ -5170,7 +5170,7 @@
     },
     {
       "w": "meuing",
-      "p": "m u i N"
+      "p": "m w i N"
     },
     {
       "w": "myeng2",
@@ -5266,7 +5266,7 @@
     },
     {
       "w": "meuip",
-      "p": "m u i p"
+      "p": "m w i p"
     },
     {
       "w": "myep2",
@@ -5362,7 +5362,7 @@
     },
     {
       "w": "meuit",
-      "p": "m u i t"
+      "p": "m w i t"
     },
     {
       "w": "myet2",
@@ -5458,7 +5458,7 @@
     },
     {
       "w": "meuik",
-      "p": "m u i k"
+      "p": "m w i k"
     },
     {
       "w": "myek2",
@@ -5554,7 +5554,7 @@
     },
     {
       "w": "meuil",
-      "p": "m u i r"
+      "p": "m w i r"
     },
     {
       "w": "myel2",
@@ -5650,7 +5650,7 @@
     },
     {
       "w": "beui",
-      "p": "b u i"
+      "p": "b w i"
     },
     {
       "w": "bye2",
@@ -5746,7 +5746,7 @@
     },
     {
       "w": "beuim",
-      "p": "b u i m"
+      "p": "b w i m"
     },
     {
       "w": "byem2",
@@ -5842,7 +5842,7 @@
     },
     {
       "w": "beuin",
-      "p": "b u i n"
+      "p": "b w i n"
     },
     {
       "w": "byen2",
@@ -5938,7 +5938,7 @@
     },
     {
       "w": "beuing",
-      "p": "b u i N"
+      "p": "b w i N"
     },
     {
       "w": "byeng2",
@@ -6034,7 +6034,7 @@
     },
     {
       "w": "beuip",
-      "p": "b u i p"
+      "p": "b w i p"
     },
     {
       "w": "byep2",
@@ -6130,7 +6130,7 @@
     },
     {
       "w": "beuit",
-      "p": "b u i t"
+      "p": "b w i t"
     },
     {
       "w": "byet2",
@@ -6226,7 +6226,7 @@
     },
     {
       "w": "beuik",
-      "p": "b u i k"
+      "p": "b w i k"
     },
     {
       "w": "byek2",
@@ -6322,7 +6322,7 @@
     },
     {
       "w": "beuil",
-      "p": "b u i r"
+      "p": "b w i r"
     },
     {
       "w": "byel2",
@@ -6418,7 +6418,7 @@
     },
     {
       "w": "seui",
-      "p": "s u i"
+      "p": "s w i"
     },
     {
       "w": "seui2",
@@ -6506,7 +6506,7 @@
     },
     {
       "w": "seuim",
-      "p": "s u i m"
+      "p": "s w i m"
     },
     {
       "w": "seuim2",
@@ -6594,7 +6594,7 @@
     },
     {
       "w": "seuin",
-      "p": "s u i n"
+      "p": "s w i n"
     },
     {
       "w": "seuin2",
@@ -6682,7 +6682,7 @@
     },
     {
       "w": "seuing",
-      "p": "s u i N"
+      "p": "s w i N"
     },
     {
       "w": "seuing2",
@@ -6770,7 +6770,7 @@
     },
     {
       "w": "seuip",
-      "p": "s u i p"
+      "p": "s w i p"
     },
     {
       "w": "seuip2",
@@ -6858,7 +6858,7 @@
     },
     {
       "w": "seuit",
-      "p": "s u i t"
+      "p": "s w i t"
     },
     {
       "w": "seuit2",
@@ -6946,7 +6946,7 @@
     },
     {
       "w": "seuik",
-      "p": "s u i k"
+      "p": "s w i k"
     },
     {
       "w": "seuik2",
@@ -7034,7 +7034,7 @@
     },
     {
       "w": "seuil",
-      "p": "s u i r"
+      "p": "s w i r"
     },
     {
       "w": "seuil2",
@@ -7122,7 +7122,7 @@
     },
     {
       "w": "jeui",
-      "p": "j u i"
+      "p": "j w i"
     },
     {
       "w": "jye3",
@@ -7218,7 +7218,7 @@
     },
     {
       "w": "jeuim",
-      "p": "j u i m"
+      "p": "j w i m"
     },
     {
       "w": "jyem3",
@@ -7314,7 +7314,7 @@
     },
     {
       "w": "jeuin",
-      "p": "j u i n"
+      "p": "j w i n"
     },
     {
       "w": "jyen3",
@@ -7410,7 +7410,7 @@
     },
     {
       "w": "jeuing",
-      "p": "j u i N"
+      "p": "j w i N"
     },
     {
       "w": "jyeng3",
@@ -7506,7 +7506,7 @@
     },
     {
       "w": "jeuip",
-      "p": "j u i p"
+      "p": "j w i p"
     },
     {
       "w": "jyep3",
@@ -7602,7 +7602,7 @@
     },
     {
       "w": "jeuit",
-      "p": "j u i t"
+      "p": "j w i t"
     },
     {
       "w": "jyet3",
@@ -7698,7 +7698,7 @@
     },
     {
       "w": "jeuik",
-      "p": "j u i k"
+      "p": "j w i k"
     },
     {
       "w": "jyek3",
@@ -7794,7 +7794,7 @@
     },
     {
       "w": "jeuil",
-      "p": "j u i r"
+      "p": "j w i r"
     },
     {
       "w": "jyel3",
@@ -7886,7 +7886,7 @@
     },
     {
       "w": "jeui2",
-      "p": "z u i"
+      "p": "z w i"
     },
     {
       "w": "jam2",
@@ -7966,7 +7966,7 @@
     },
     {
       "w": "jeuim2",
-      "p": "z u i m"
+      "p": "z w i m"
     },
     {
       "w": "jan2",
@@ -8046,7 +8046,7 @@
     },
     {
       "w": "jeuin2",
-      "p": "z u i n"
+      "p": "z w i n"
     },
     {
       "w": "jang2",
@@ -8126,7 +8126,7 @@
     },
     {
       "w": "jeuing2",
-      "p": "z u i N"
+      "p": "z w i N"
     },
     {
       "w": "jap2",
@@ -8206,7 +8206,7 @@
     },
     {
       "w": "jeuip2",
-      "p": "z u i p"
+      "p": "z w i p"
     },
     {
       "w": "jat2",
@@ -8286,7 +8286,7 @@
     },
     {
       "w": "jeuit2",
-      "p": "z u i t"
+      "p": "z w i t"
     },
     {
       "w": "jak2",
@@ -8366,7 +8366,7 @@
     },
     {
       "w": "jeuik2",
-      "p": "z u i k"
+      "p": "z w i k"
     },
     {
       "w": "jal2",
@@ -8446,7 +8446,7 @@
     },
     {
       "w": "jeuil2",
-      "p": "z u i r"
+      "p": "z w i r"
     },
     {
       "w": "cha",
@@ -8530,7 +8530,7 @@
     },
     {
       "w": "cheui",
-      "p": "ch u i"
+      "p": "ch w i"
     },
     {
       "w": "chye3",
@@ -8626,7 +8626,7 @@
     },
     {
       "w": "cheuim",
-      "p": "ch u i m"
+      "p": "ch w i m"
     },
     {
       "w": "chyem3",
@@ -8722,7 +8722,7 @@
     },
     {
       "w": "cheuin",
-      "p": "ch u i n"
+      "p": "ch w i n"
     },
     {
       "w": "chyen3",
@@ -8818,7 +8818,7 @@
     },
     {
       "w": "cheuing",
-      "p": "ch u i N"
+      "p": "ch w i N"
     },
     {
       "w": "chyeng3",
@@ -8914,7 +8914,7 @@
     },
     {
       "w": "cheuip",
-      "p": "ch u i p"
+      "p": "ch w i p"
     },
     {
       "w": "chyep3",
@@ -9010,7 +9010,7 @@
     },
     {
       "w": "cheuit",
-      "p": "ch u i t"
+      "p": "ch w i t"
     },
     {
       "w": "chyet3",
@@ -9106,7 +9106,7 @@
     },
     {
       "w": "cheuik",
-      "p": "ch u i k"
+      "p": "ch w i k"
     },
     {
       "w": "chyek3",
@@ -9202,7 +9202,7 @@
     },
     {
       "w": "cheuil",
-      "p": "ch u i r"
+      "p": "ch w i r"
     },
     {
       "w": "chyel3",
@@ -9294,7 +9294,7 @@
     },
     {
       "w": "cheui2",
-      "p": "ts u i"
+      "p": "ts w i"
     },
     {
       "w": "cham2",
@@ -9374,7 +9374,7 @@
     },
     {
       "w": "cheuim2",
-      "p": "ts u i m"
+      "p": "ts w i m"
     },
     {
       "w": "chan2",
@@ -9454,7 +9454,7 @@
     },
     {
       "w": "cheuin2",
-      "p": "ts u i n"
+      "p": "ts w i n"
     },
     {
       "w": "chang2",
@@ -9534,7 +9534,7 @@
     },
     {
       "w": "cheuing2",
-      "p": "ts u i N"
+      "p": "ts w i N"
     },
     {
       "w": "chap2",
@@ -9614,7 +9614,7 @@
     },
     {
       "w": "cheuip2",
-      "p": "ts u i p"
+      "p": "ts w i p"
     },
     {
       "w": "chat2",
@@ -9694,7 +9694,7 @@
     },
     {
       "w": "cheuit2",
-      "p": "ts u i t"
+      "p": "ts w i t"
     },
     {
       "w": "chak2",
@@ -9774,7 +9774,7 @@
     },
     {
       "w": "cheuik2",
-      "p": "ts u i k"
+      "p": "ts w i k"
     },
     {
       "w": "chal2",
@@ -9854,7 +9854,7 @@
     },
     {
       "w": "cheuil2",
-      "p": "ts u i r"
+      "p": "ts w i r"
     },
     {
       "w": "ka",
@@ -9938,7 +9938,7 @@
     },
     {
       "w": "keui",
-      "p": "k u i"
+      "p": "k w i"
     },
     {
       "w": "kye2",
@@ -10034,7 +10034,7 @@
     },
     {
       "w": "keuim",
-      "p": "k u i m"
+      "p": "k w i m"
     },
     {
       "w": "kyem2",
@@ -10130,7 +10130,7 @@
     },
     {
       "w": "keuin",
-      "p": "k u i n"
+      "p": "k w i n"
     },
     {
       "w": "kyen2",
@@ -10226,7 +10226,7 @@
     },
     {
       "w": "keuing",
-      "p": "k u i N"
+      "p": "k w i N"
     },
     {
       "w": "kyeng2",
@@ -10322,7 +10322,7 @@
     },
     {
       "w": "keuip",
-      "p": "k u i p"
+      "p": "k w i p"
     },
     {
       "w": "kyep2",
@@ -10418,7 +10418,7 @@
     },
     {
       "w": "keuit",
-      "p": "k u i t"
+      "p": "k w i t"
     },
     {
       "w": "kyet2",
@@ -10514,7 +10514,7 @@
     },
     {
       "w": "keuik",
-      "p": "k u i k"
+      "p": "k w i k"
     },
     {
       "w": "kyek2",
@@ -10610,7 +10610,7 @@
     },
     {
       "w": "keuil",
-      "p": "k u i r"
+      "p": "k w i r"
     },
     {
       "w": "kyel2",
@@ -10962,7 +10962,7 @@
     },
     {
       "w": "teui",
-      "p": "t u i"
+      "p": "t w i"
     },
     {
       "w": "tye2",
@@ -11058,7 +11058,7 @@
     },
     {
       "w": "teuim",
-      "p": "t u i m"
+      "p": "t w i m"
     },
     {
       "w": "tyem2",
@@ -11154,7 +11154,7 @@
     },
     {
       "w": "teuin",
-      "p": "t u i n"
+      "p": "t w i n"
     },
     {
       "w": "tyen2",
@@ -11250,7 +11250,7 @@
     },
     {
       "w": "teuing",
-      "p": "t u i N"
+      "p": "t w i N"
     },
     {
       "w": "tyeng2",
@@ -11346,7 +11346,7 @@
     },
     {
       "w": "teuip",
-      "p": "t u i p"
+      "p": "t w i p"
     },
     {
       "w": "tyep2",
@@ -11442,7 +11442,7 @@
     },
     {
       "w": "teuit",
-      "p": "t u i t"
+      "p": "t w i t"
     },
     {
       "w": "tyet2",
@@ -11538,7 +11538,7 @@
     },
     {
       "w": "teuik",
-      "p": "t u i k"
+      "p": "t w i k"
     },
     {
       "w": "tyek2",
@@ -11634,7 +11634,7 @@
     },
     {
       "w": "teuil",
-      "p": "t u i r"
+      "p": "t w i r"
     },
     {
       "w": "tyel2",
@@ -11730,7 +11730,7 @@
     },
     {
       "w": "peui",
-      "p": "p u i"
+      "p": "p w i"
     },
     {
       "w": "pye2",
@@ -11826,7 +11826,7 @@
     },
     {
       "w": "peuim",
-      "p": "p u i m"
+      "p": "p w i m"
     },
     {
       "w": "pyem2",
@@ -11922,7 +11922,7 @@
     },
     {
       "w": "peuin",
-      "p": "p u i n"
+      "p": "p w i n"
     },
     {
       "w": "pyen2",
@@ -12018,7 +12018,7 @@
     },
     {
       "w": "peuing",
-      "p": "p u i N"
+      "p": "p w i N"
     },
     {
       "w": "pyeng2",
@@ -12114,7 +12114,7 @@
     },
     {
       "w": "peuip",
-      "p": "p u i p"
+      "p": "p w i p"
     },
     {
       "w": "pyep2",
@@ -12210,7 +12210,7 @@
     },
     {
       "w": "peuit",
-      "p": "p u i t"
+      "p": "p w i t"
     },
     {
       "w": "pyet2",
@@ -12306,7 +12306,7 @@
     },
     {
       "w": "peuik",
-      "p": "p u i k"
+      "p": "p w i k"
     },
     {
       "w": "pyek2",
@@ -12402,7 +12402,7 @@
     },
     {
       "w": "peuil",
-      "p": "p u i r"
+      "p": "p w i r"
     },
     {
       "w": "pyel2",
@@ -12498,7 +12498,7 @@
     },
     {
       "w": "heui",
-      "p": "h u i"
+      "p": "h w i"
     },
     {
       "w": "hye2",
@@ -12594,7 +12594,7 @@
     },
     {
       "w": "heuim",
-      "p": "h u i m"
+      "p": "h w i m"
     },
     {
       "w": "hyem2",
@@ -12690,7 +12690,7 @@
     },
     {
       "w": "heuin",
-      "p": "h u i n"
+      "p": "h w i n"
     },
     {
       "w": "hyen2",
@@ -12786,7 +12786,7 @@
     },
     {
       "w": "heuing",
-      "p": "h u i N"
+      "p": "h w i N"
     },
     {
       "w": "hyeng2",
@@ -12882,7 +12882,7 @@
     },
     {
       "w": "heuip",
-      "p": "h u i p"
+      "p": "h w i p"
     },
     {
       "w": "hyep2",
@@ -12978,7 +12978,7 @@
     },
     {
       "w": "heuit",
-      "p": "h u i t"
+      "p": "h w i t"
     },
     {
       "w": "hyet2",
@@ -13074,7 +13074,7 @@
     },
     {
       "w": "heuik",
-      "p": "h u i k"
+      "p": "h w i k"
     },
     {
       "w": "hyek2",
@@ -13170,7 +13170,7 @@
     },
     {
       "w": "heuil",
-      "p": "h u i r"
+      "p": "h w i r"
     },
     {
       "w": "hyel2",
@@ -13266,7 +13266,7 @@
     },
     {
       "w": "ggeui",
-      "p": "cl k u i"
+      "p": "cl k w i"
     },
     {
       "w": "ggye2",
@@ -13362,7 +13362,7 @@
     },
     {
       "w": "ggeuim",
-      "p": "cl k u i m"
+      "p": "cl k w i m"
     },
     {
       "w": "ggyem2",
@@ -13458,7 +13458,7 @@
     },
     {
       "w": "ggeuin",
-      "p": "cl k u i n"
+      "p": "cl k w i n"
     },
     {
       "w": "ggyen2",
@@ -13554,7 +13554,7 @@
     },
     {
       "w": "ggeuing",
-      "p": "cl k u i N"
+      "p": "cl k w i N"
     },
     {
       "w": "ggyeng2",
@@ -13650,7 +13650,7 @@
     },
     {
       "w": "ggeuip",
-      "p": "cl k u i p"
+      "p": "cl k w i p"
     },
     {
       "w": "ggyep2",
@@ -13746,7 +13746,7 @@
     },
     {
       "w": "ggeuit",
-      "p": "cl k u i t"
+      "p": "cl k w i t"
     },
     {
       "w": "ggyet2",
@@ -13842,7 +13842,7 @@
     },
     {
       "w": "ggeuik",
-      "p": "cl k u i k"
+      "p": "cl k w i k"
     },
     {
       "w": "ggyek2",
@@ -13938,7 +13938,7 @@
     },
     {
       "w": "ggeuil",
-      "p": "cl k u i r"
+      "p": "cl k w i r"
     },
     {
       "w": "ggyel2",
@@ -14290,7 +14290,7 @@
     },
     {
       "w": "ddeui",
-      "p": "cl t u i"
+      "p": "cl t w i"
     },
     {
       "w": "ddye2",
@@ -14386,7 +14386,7 @@
     },
     {
       "w": "ddeuim",
-      "p": "cl t u i m"
+      "p": "cl t w i m"
     },
     {
       "w": "ddyem2",
@@ -14482,7 +14482,7 @@
     },
     {
       "w": "ddeuin",
-      "p": "cl t u i n"
+      "p": "cl t w i n"
     },
     {
       "w": "ddyen2",
@@ -14578,7 +14578,7 @@
     },
     {
       "w": "ddeuing",
-      "p": "cl t u i N"
+      "p": "cl t w i N"
     },
     {
       "w": "ddyeng2",
@@ -14674,7 +14674,7 @@
     },
     {
       "w": "ddeuip",
-      "p": "cl t u i p"
+      "p": "cl t w i p"
     },
     {
       "w": "ddyep2",
@@ -14770,7 +14770,7 @@
     },
     {
       "w": "ddeuit",
-      "p": "cl t u i t"
+      "p": "cl t w i t"
     },
     {
       "w": "ddyet2",
@@ -14866,7 +14866,7 @@
     },
     {
       "w": "ddeuik",
-      "p": "cl t u i k"
+      "p": "cl t w i k"
     },
     {
       "w": "ddyek2",
@@ -14962,7 +14962,7 @@
     },
     {
       "w": "ddeuil",
-      "p": "cl t u i r"
+      "p": "cl t w i r"
     },
     {
       "w": "ddyel2",
@@ -15058,7 +15058,7 @@
     },
     {
       "w": "bbeui",
-      "p": "cl p u i"
+      "p": "cl p w i"
     },
     {
       "w": "bbye2",
@@ -15154,7 +15154,7 @@
     },
     {
       "w": "bbeuim",
-      "p": "cl p u i m"
+      "p": "cl p w i m"
     },
     {
       "w": "bbyem2",
@@ -15250,7 +15250,7 @@
     },
     {
       "w": "bbeuin",
-      "p": "cl p u i n"
+      "p": "cl p w i n"
     },
     {
       "w": "bbyen2",
@@ -15346,7 +15346,7 @@
     },
     {
       "w": "bbeuing",
-      "p": "cl p u i N"
+      "p": "cl p w i N"
     },
     {
       "w": "bbyeng2",
@@ -15442,7 +15442,7 @@
     },
     {
       "w": "bbeuip",
-      "p": "cl p u i p"
+      "p": "cl p w i p"
     },
     {
       "w": "bbyep2",
@@ -15538,7 +15538,7 @@
     },
     {
       "w": "bbeuit",
-      "p": "cl p u i t"
+      "p": "cl p w i t"
     },
     {
       "w": "bbyet2",
@@ -15634,7 +15634,7 @@
     },
     {
       "w": "bbeuik",
-      "p": "cl p u i k"
+      "p": "cl p w i k"
     },
     {
       "w": "bbyek2",
@@ -15730,7 +15730,7 @@
     },
     {
       "w": "bbeuil",
-      "p": "cl p u i r"
+      "p": "cl p w i r"
     },
     {
       "w": "bbyel2",
@@ -15826,7 +15826,7 @@
     },
     {
       "w": "sseui",
-      "p": "s u i"
+      "p": "s w i"
     },
     {
       "w": "sseui2",
@@ -15914,7 +15914,7 @@
     },
     {
       "w": "sseuim",
-      "p": "s u i m"
+      "p": "s w i m"
     },
     {
       "w": "sseuim2",
@@ -16002,7 +16002,7 @@
     },
     {
       "w": "sseuin",
-      "p": "s u i n"
+      "p": "s w i n"
     },
     {
       "w": "sseuin2",
@@ -16090,7 +16090,7 @@
     },
     {
       "w": "sseuing",
-      "p": "s u i N"
+      "p": "s w i N"
     },
     {
       "w": "sseuing2",
@@ -16178,7 +16178,7 @@
     },
     {
       "w": "sseuip",
-      "p": "s u i p"
+      "p": "s w i p"
     },
     {
       "w": "sseuip2",
@@ -16266,7 +16266,7 @@
     },
     {
       "w": "sseuit",
-      "p": "s u i t"
+      "p": "s w i t"
     },
     {
       "w": "sseuit2",
@@ -16354,7 +16354,7 @@
     },
     {
       "w": "sseuik",
-      "p": "s u i k"
+      "p": "s w i k"
     },
     {
       "w": "sseuik2",
@@ -16442,7 +16442,7 @@
     },
     {
       "w": "sseuil",
-      "p": "s u i r"
+      "p": "s w i r"
     },
     {
       "w": "sseuil2",
@@ -16530,7 +16530,7 @@
     },
     {
       "w": "jjeui",
-      "p": "cl ch u i"
+      "p": "cl ch w i"
     },
     {
       "w": "jjye3",
@@ -16626,7 +16626,7 @@
     },
     {
       "w": "jjeuim",
-      "p": "cl ch u i m"
+      "p": "cl ch w i m"
     },
     {
       "w": "jjyem3",
@@ -16722,7 +16722,7 @@
     },
     {
       "w": "jjeuin",
-      "p": "cl ch u i n"
+      "p": "cl ch w i n"
     },
     {
       "w": "jjyen3",
@@ -16818,7 +16818,7 @@
     },
     {
       "w": "jjeuing",
-      "p": "cl ch u i N"
+      "p": "cl ch w i N"
     },
     {
       "w": "jjyeng3",
@@ -16914,7 +16914,7 @@
     },
     {
       "w": "jjeuip",
-      "p": "cl ch u i p"
+      "p": "cl ch w i p"
     },
     {
       "w": "jjyep3",
@@ -17010,7 +17010,7 @@
     },
     {
       "w": "jjeuit",
-      "p": "cl ch u i t"
+      "p": "cl ch w i t"
     },
     {
       "w": "jjyet3",
@@ -17106,7 +17106,7 @@
     },
     {
       "w": "jjeuik",
-      "p": "cl ch u i k"
+      "p": "cl ch w i k"
     },
     {
       "w": "jjyek3",
@@ -17202,7 +17202,7 @@
     },
     {
       "w": "jjeuil",
-      "p": "cl ch u i r"
+      "p": "cl ch w i r"
     },
     {
       "w": "jjyel3",
@@ -17294,7 +17294,7 @@
     },
     {
       "w": "jjeui2",
-      "p": "cl ts u i"
+      "p": "cl ts w i"
     },
     {
       "w": "jjam2",
@@ -17374,7 +17374,7 @@
     },
     {
       "w": "jjeuim2",
-      "p": "cl ts u i m"
+      "p": "cl ts w i m"
     },
     {
       "w": "jjan2",
@@ -17454,7 +17454,7 @@
     },
     {
       "w": "jjeuin2",
-      "p": "cl ts u i n"
+      "p": "cl ts w i n"
     },
     {
       "w": "jjang2",
@@ -17534,7 +17534,7 @@
     },
     {
       "w": "jjeuing2",
-      "p": "cl ts u i N"
+      "p": "cl ts w i N"
     },
     {
       "w": "jjap2",
@@ -17614,7 +17614,7 @@
     },
     {
       "w": "jjeuip2",
-      "p": "cl ts u i p"
+      "p": "cl ts w i p"
     },
     {
       "w": "jjat2",
@@ -17694,7 +17694,7 @@
     },
     {
       "w": "jjeuit2",
-      "p": "cl ts u i t"
+      "p": "cl ts w i t"
     },
     {
       "w": "jjak2",
@@ -17774,7 +17774,7 @@
     },
     {
       "w": "jjeuik2",
-      "p": "cl ts u i k"
+      "p": "cl ts w i k"
     },
     {
       "w": "jjal2",
@@ -17854,7 +17854,7 @@
     },
     {
       "w": "jjeuil2",
-      "p": "cl ts u i r"
+      "p": "cl ts w i r"
     },
     {
       "w": "va",
@@ -17938,7 +17938,7 @@
     },
     {
       "w": "veui",
-      "p": "v u i"
+      "p": "v w i"
     },
     {
       "w": "vye2",
@@ -18034,7 +18034,7 @@
     },
     {
       "w": "veuim",
-      "p": "v u i m"
+      "p": "v w i m"
     },
     {
       "w": "vyem2",
@@ -18130,7 +18130,7 @@
     },
     {
       "w": "veuin",
-      "p": "v u i n"
+      "p": "v w i n"
     },
     {
       "w": "vyen2",
@@ -18226,7 +18226,7 @@
     },
     {
       "w": "veuing",
-      "p": "v u i N"
+      "p": "v w i N"
     },
     {
       "w": "vyeng2",
@@ -18322,7 +18322,7 @@
     },
     {
       "w": "veuip",
-      "p": "v u i p"
+      "p": "v w i p"
     },
     {
       "w": "vyep2",
@@ -18418,7 +18418,7 @@
     },
     {
       "w": "veuit",
-      "p": "v u i t"
+      "p": "v w i t"
     },
     {
       "w": "vyet2",
@@ -18514,7 +18514,7 @@
     },
     {
       "w": "veuik",
-      "p": "v u i k"
+      "p": "v w i k"
     },
     {
       "w": "vyek2",
@@ -18610,7 +18610,7 @@
     },
     {
       "w": "veuil",
-      "p": "v u i r"
+      "p": "v w i r"
     },
     {
       "w": "vyel2",
@@ -18706,7 +18706,7 @@
     },
     {
       "w": "feui",
-      "p": "f u i"
+      "p": "f w i"
     },
     {
       "w": "fye2",
@@ -18802,7 +18802,7 @@
     },
     {
       "w": "feuim",
-      "p": "f u i m"
+      "p": "f w i m"
     },
     {
       "w": "fyem2",
@@ -18898,7 +18898,7 @@
     },
     {
       "w": "feuin",
-      "p": "f u i n"
+      "p": "f w i n"
     },
     {
       "w": "fyen2",
@@ -18994,7 +18994,7 @@
     },
     {
       "w": "feuing",
-      "p": "f u i N"
+      "p": "f w i N"
     },
     {
       "w": "fyeng2",
@@ -19090,7 +19090,7 @@
     },
     {
       "w": "feuip",
-      "p": "f u i p"
+      "p": "f w i p"
     },
     {
       "w": "fyep2",
@@ -19186,7 +19186,7 @@
     },
     {
       "w": "feuit",
-      "p": "f u i t"
+      "p": "f w i t"
     },
     {
       "w": "fyet2",
@@ -19282,7 +19282,7 @@
     },
     {
       "w": "feuik",
-      "p": "f u i k"
+      "p": "f w i k"
     },
     {
       "w": "fyek2",
@@ -19378,7 +19378,7 @@
     },
     {
       "w": "feuil",
-      "p": "f u i r"
+      "p": "f w i r"
     },
     {
       "w": "fyel2",
@@ -19474,7 +19474,7 @@
     },
     {
       "w": "zeui",
-      "p": "z u i"
+      "p": "z w i"
     },
     {
       "w": "zye2",
@@ -19570,7 +19570,7 @@
     },
     {
       "w": "zeuim",
-      "p": "z u i m"
+      "p": "z w i m"
     },
     {
       "w": "zyem2",
@@ -19666,7 +19666,7 @@
     },
     {
       "w": "zeuin",
-      "p": "z u i n"
+      "p": "z w i n"
     },
     {
       "w": "zyen2",
@@ -19762,7 +19762,7 @@
     },
     {
       "w": "zeuing",
-      "p": "z u i N"
+      "p": "z w i N"
     },
     {
       "w": "zyeng2",
@@ -19858,7 +19858,7 @@
     },
     {
       "w": "zeuip",
-      "p": "z u i p"
+      "p": "z w i p"
     },
     {
       "w": "zyep2",
@@ -19954,7 +19954,7 @@
     },
     {
       "w": "zeuit",
-      "p": "z u i t"
+      "p": "z w i t"
     },
     {
       "w": "zyet2",
@@ -20050,7 +20050,7 @@
     },
     {
       "w": "zeuik",
-      "p": "z u i k"
+      "p": "z w i k"
     },
     {
       "w": "zyek2",
@@ -20146,7 +20146,7 @@
     },
     {
       "w": "zeuil",
-      "p": "z u i r"
+      "p": "z w i r"
     },
     {
       "w": "zyel2",
