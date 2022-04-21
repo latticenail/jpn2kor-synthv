@@ -797,7 +797,7 @@
       "p": "g e"
     },
     {
-      "w": "geui2",
+      "w": "geui3",
       "p": "g i"
     },
     {
@@ -893,7 +893,7 @@
       "p": "g e m"
     },
     {
-      "w": "geuim2",
+      "w": "geuim3",
       "p": "g i m"
     },
     {
@@ -989,7 +989,7 @@
       "p": "g e n"
     },
     {
-      "w": "geuin2",
+      "w": "geuin3",
       "p": "g i n"
     },
     {
@@ -1085,7 +1085,7 @@
       "p": "g e N"
     },
     {
-      "w": "geuing2",
+      "w": "geuing3",
       "p": "g i N"
     },
     {
@@ -1181,7 +1181,7 @@
       "p": "g e p"
     },
     {
-      "w": "geuip2",
+      "w": "geuip3",
       "p": "g i p"
     },
     {
@@ -1277,7 +1277,7 @@
       "p": "g e t"
     },
     {
-      "w": "geuit2",
+      "w": "geuit3",
       "p": "g i t"
     },
     {
@@ -1373,7 +1373,7 @@
       "p": "g e k"
     },
     {
-      "w": "geuik2",
+      "w": "geuik3",
       "p": "g i k"
     },
     {
@@ -1469,7 +1469,7 @@
       "p": "g e r"
     },
     {
-      "w": "geuil2",
+      "w": "geuil3",
       "p": "g i r"
     },
     {
@@ -1501,6 +1501,10 @@
       "p": "g w e"
     },
     {
+      "w": "geui2",
+      "p": "g w i"
+    },
+    {
       "w": "gom2",
       "p": "g w o m"
     },
@@ -1527,6 +1531,10 @@
     {
       "w": "goem2",
       "p": "g w e m"
+    },
+    {
+      "w": "geuim2",
+      "p": "g w i m"
     },
     {
       "w": "gon2",
@@ -1557,6 +1565,10 @@
       "p": "g w e n"
     },
     {
+      "w": "geuin2",
+      "p": "g w i n"
+    },
+    {
       "w": "gong2",
       "p": "g w o N"
     },
@@ -1583,6 +1595,10 @@
     {
       "w": "goeng2",
       "p": "g w e N"
+    },
+    {
+      "w": "geuing2",
+      "p": "g w i N"
     },
     {
       "w": "gop2",
@@ -1613,6 +1629,10 @@
       "p": "g w e p"
     },
     {
+      "w": "geuip2",
+      "p": "g w i p"
+    },
+    {
       "w": "got2",
       "p": "g w o t"
     },
@@ -1639,6 +1659,10 @@
     {
       "w": "goet2",
       "p": "g w e t"
+    },
+    {
+      "w": "geuit2",
+      "p": "g w i t"
     },
     {
       "w": "gok2",
@@ -1669,6 +1693,10 @@
       "p": "g w e k"
     },
     {
+      "w": "geuik2",
+      "p": "g w i k"
+    },
+    {
       "w": "gol2",
       "p": "g w o r"
     },
@@ -1695,6 +1723,10 @@
     {
       "w": "goel2",
       "p": "g w e r"
+    },
+    {
+      "w": "geuil2",
+      "p": "g w i r"
     },
     {
       "w": "na",
@@ -9917,7 +9949,7 @@
       "p": "k e"
     },
     {
-      "w": "keui2",
+      "w": "keui3",
       "p": "k i"
     },
     {
@@ -10013,7 +10045,7 @@
       "p": "k e m"
     },
     {
-      "w": "keuim2",
+      "w": "keuim3",
       "p": "k i m"
     },
     {
@@ -10109,7 +10141,7 @@
       "p": "k e n"
     },
     {
-      "w": "keuin2",
+      "w": "keuin3",
       "p": "k i n"
     },
     {
@@ -10205,7 +10237,7 @@
       "p": "k e N"
     },
     {
-      "w": "keuing2",
+      "w": "keuing3",
       "p": "k i N"
     },
     {
@@ -10301,7 +10333,7 @@
       "p": "k e p"
     },
     {
-      "w": "keuip2",
+      "w": "keuip3",
       "p": "k i p"
     },
     {
@@ -10397,7 +10429,7 @@
       "p": "k e t"
     },
     {
-      "w": "keuit2",
+      "w": "keuit3",
       "p": "k i t"
     },
     {
@@ -10493,7 +10525,7 @@
       "p": "k e k"
     },
     {
-      "w": "keuik2",
+      "w": "keuik3",
       "p": "k i k"
     },
     {
@@ -10589,7 +10621,7 @@
       "p": "k e r"
     },
     {
-      "w": "keuil2",
+      "w": "keuil3",
       "p": "k i r"
     },
     {
@@ -10621,6 +10653,10 @@
       "p": "k w e"
     },
     {
+      "w": "keui2",
+      "p": "k w i"
+    },
+    {
       "w": "kom2",
       "p": "k w o m"
     },
@@ -10647,6 +10683,10 @@
     {
       "w": "koem2",
       "p": "k w e m"
+    },
+    {
+      "w": "keuim2",
+      "p": "k w i m"
     },
     {
       "w": "kon2",
@@ -10677,6 +10717,10 @@
       "p": "k w e n"
     },
     {
+      "w": "keuin2",
+      "p": "k w i n"
+    },
+    {
       "w": "kong2",
       "p": "k w o N"
     },
@@ -10703,6 +10747,10 @@
     {
       "w": "koeng2",
       "p": "k w e N"
+    },
+    {
+      "w": "keuing2",
+      "p": "k w i N"
     },
     {
       "w": "kop2",
@@ -10733,6 +10781,10 @@
       "p": "k w e p"
     },
     {
+      "w": "keuip2",
+      "p": "k w i p"
+    },
+    {
       "w": "kot2",
       "p": "k w o t"
     },
@@ -10759,6 +10811,10 @@
     {
       "w": "koet2",
       "p": "k w e t"
+    },
+    {
+      "w": "keuit2",
+      "p": "k w i t"
     },
     {
       "w": "kok2",
@@ -10789,6 +10845,10 @@
       "p": "k w e k"
     },
     {
+      "w": "keuik2",
+      "p": "k w i k"
+    },
+    {
       "w": "kol2",
       "p": "k w o r"
     },
@@ -10815,6 +10875,10 @@
     {
       "w": "koel2",
       "p": "k w e r"
+    },
+    {
+      "w": "keuil2",
+      "p": "k w i r"
     },
     {
       "w": "ta",
@@ -13213,7 +13277,7 @@
       "p": "cl k e"
     },
     {
-      "w": "ggeui2",
+      "w": "ggeui3",
       "p": "cl k i"
     },
     {
@@ -13309,7 +13373,7 @@
       "p": "cl k e m"
     },
     {
-      "w": "ggeuim2",
+      "w": "ggeuim3",
       "p": "cl k i m"
     },
     {
@@ -13405,7 +13469,7 @@
       "p": "cl k e n"
     },
     {
-      "w": "ggeuin2",
+      "w": "ggeuin3",
       "p": "cl k i n"
     },
     {
@@ -13501,7 +13565,7 @@
       "p": "cl k e N"
     },
     {
-      "w": "ggeuing2",
+      "w": "ggeuing3",
       "p": "cl k i N"
     },
     {
@@ -13597,7 +13661,7 @@
       "p": "cl k e p"
     },
     {
-      "w": "ggeuip2",
+      "w": "ggeuip3",
       "p": "cl k i p"
     },
     {
@@ -13693,7 +13757,7 @@
       "p": "cl k e t"
     },
     {
-      "w": "ggeuit2",
+      "w": "ggeuit3",
       "p": "cl k i t"
     },
     {
@@ -13789,7 +13853,7 @@
       "p": "cl k e k"
     },
     {
-      "w": "ggeuik2",
+      "w": "ggeuik3",
       "p": "cl k i k"
     },
     {
@@ -13885,7 +13949,7 @@
       "p": "cl k e r"
     },
     {
-      "w": "ggeuil2",
+      "w": "ggeuil3",
       "p": "cl k i r"
     },
     {
@@ -13917,6 +13981,10 @@
       "p": "cl k w e"
     },
     {
+      "w": "ggeui2",
+      "p": "cl k w i"
+    },
+    {
       "w": "ggom2",
       "p": "cl k w o m"
     },
@@ -13943,6 +14011,10 @@
     {
       "w": "ggoem2",
       "p": "cl k w e m"
+    },
+    {
+      "w": "ggeuim2",
+      "p": "cl k w i m"
     },
     {
       "w": "ggon2",
@@ -13973,6 +14045,10 @@
       "p": "cl k w e n"
     },
     {
+      "w": "ggeuin2",
+      "p": "cl k w i n"
+    },
+    {
       "w": "ggong2",
       "p": "cl k w o N"
     },
@@ -13999,6 +14075,10 @@
     {
       "w": "ggoeng2",
       "p": "cl k w e N"
+    },
+    {
+      "w": "ggeuing2",
+      "p": "cl k w i N"
     },
     {
       "w": "ggop2",
@@ -14029,6 +14109,10 @@
       "p": "cl k w e p"
     },
     {
+      "w": "ggeuip2",
+      "p": "cl k w i p"
+    },
+    {
       "w": "ggot2",
       "p": "cl k w o t"
     },
@@ -14055,6 +14139,10 @@
     {
       "w": "ggoet2",
       "p": "cl k w e t"
+    },
+    {
+      "w": "ggeuit2",
+      "p": "cl k w i t"
     },
     {
       "w": "ggok2",
@@ -14085,6 +14173,10 @@
       "p": "cl k w e k"
     },
     {
+      "w": "ggeuik2",
+      "p": "cl k w i k"
+    },
+    {
       "w": "ggol2",
       "p": "cl k w o r"
     },
@@ -14111,6 +14203,10 @@
     {
       "w": "ggoel2",
       "p": "cl k w e r"
+    },
+    {
+      "w": "ggeuil2",
+      "p": "cl k w i r"
     },
     {
       "w": "dda",
