@@ -19297,6 +19297,774 @@
       "p": "f i r"
     },
     {
+      "w": "za",
+      "p": "z a"
+    },
+    {
+      "w": "zi",
+      "p": "z i"
+    },
+    {
+      "w": "zu",
+      "p": "z u"
+    },
+    {
+      "w": "ze",
+      "p": "z e"
+    },
+    {
+      "w": "zo",
+      "p": "z w o"
+    },
+    {
+      "w": "zae",
+      "p": "z e"
+    },
+    {
+      "w": "zeu",
+      "p": "z u"
+    },
+    {
+      "w": "zeo",
+      "p": "z o"
+    },
+    {
+      "w": "zya",
+      "p": "z y a"
+    },
+    {
+      "w": "zyu",
+      "p": "z y u"
+    },
+    {
+      "w": "zye",
+      "p": "z y e"
+    },
+    {
+      "w": "zyo",
+      "p": "z y o"
+    },
+    {
+      "w": "zyae",
+      "p": "z y e"
+    },
+    {
+      "w": "zyeo",
+      "p": "z y o"
+    },
+    {
+      "w": "zwa",
+      "p": "z w a"
+    },
+    {
+      "w": "zwi",
+      "p": "z w i"
+    },
+    {
+      "w": "zwe",
+      "p": "z w e"
+    },
+    {
+      "w": "zwae",
+      "p": "z w e"
+    },
+    {
+      "w": "zweo",
+      "p": "z w o"
+    },
+    {
+      "w": "zoe",
+      "p": "z w e"
+    },
+    {
+      "w": "zeui",
+      "p": "z u i"
+    },
+    {
+      "w": "zye2",
+      "p": "z e"
+    },
+    {
+      "w": "zyae2",
+      "p": "z e"
+    },
+    {
+      "w": "zeui2",
+      "p": "z i"
+    },
+    {
+      "w": "zam",
+      "p": "z a m"
+    },
+    {
+      "w": "zim",
+      "p": "z i m"
+    },
+    {
+      "w": "zum",
+      "p": "z u m"
+    },
+    {
+      "w": "zem",
+      "p": "z e m"
+    },
+    {
+      "w": "zom",
+      "p": "z w o m"
+    },
+    {
+      "w": "zaem",
+      "p": "z e m"
+    },
+    {
+      "w": "zeum",
+      "p": "z u m"
+    },
+    {
+      "w": "zeom",
+      "p": "z o m"
+    },
+    {
+      "w": "zyam",
+      "p": "z y a m"
+    },
+    {
+      "w": "zyum",
+      "p": "z y u m"
+    },
+    {
+      "w": "zyem",
+      "p": "z y e m"
+    },
+    {
+      "w": "zyom",
+      "p": "z y o m"
+    },
+    {
+      "w": "zyaem",
+      "p": "z y e m"
+    },
+    {
+      "w": "zyeom",
+      "p": "z y o m"
+    },
+    {
+      "w": "zwam",
+      "p": "z w a m"
+    },
+    {
+      "w": "zwim",
+      "p": "z w i m"
+    },
+    {
+      "w": "zwem",
+      "p": "z w e m"
+    },
+    {
+      "w": "zwaem",
+      "p": "z w e m"
+    },
+    {
+      "w": "zweom",
+      "p": "z w o m"
+    },
+    {
+      "w": "zoem",
+      "p": "z w e m"
+    },
+    {
+      "w": "zeuim",
+      "p": "z u i m"
+    },
+    {
+      "w": "zyem2",
+      "p": "z e m"
+    },
+    {
+      "w": "zyaem2",
+      "p": "z e m"
+    },
+    {
+      "w": "zeuim2",
+      "p": "z i m"
+    },
+    {
+      "w": "zan",
+      "p": "z a n"
+    },
+    {
+      "w": "zin",
+      "p": "z i n"
+    },
+    {
+      "w": "zun",
+      "p": "z u n"
+    },
+    {
+      "w": "zen",
+      "p": "z e n"
+    },
+    {
+      "w": "zon",
+      "p": "z w o n"
+    },
+    {
+      "w": "zaen",
+      "p": "z e n"
+    },
+    {
+      "w": "zeun",
+      "p": "z u n"
+    },
+    {
+      "w": "zeon",
+      "p": "z o n"
+    },
+    {
+      "w": "zyan",
+      "p": "z y a n"
+    },
+    {
+      "w": "zyun",
+      "p": "z y u n"
+    },
+    {
+      "w": "zyen",
+      "p": "z y e n"
+    },
+    {
+      "w": "zyon",
+      "p": "z y o n"
+    },
+    {
+      "w": "zyaen",
+      "p": "z y e n"
+    },
+    {
+      "w": "zyeon",
+      "p": "z y o n"
+    },
+    {
+      "w": "zwan",
+      "p": "z w a n"
+    },
+    {
+      "w": "zwin",
+      "p": "z w i n"
+    },
+    {
+      "w": "zwen",
+      "p": "z w e n"
+    },
+    {
+      "w": "zwaen",
+      "p": "z w e n"
+    },
+    {
+      "w": "zweon",
+      "p": "z w o n"
+    },
+    {
+      "w": "zoen",
+      "p": "z w e n"
+    },
+    {
+      "w": "zeuin",
+      "p": "z u i n"
+    },
+    {
+      "w": "zyen2",
+      "p": "z e n"
+    },
+    {
+      "w": "zyaen2",
+      "p": "z e n"
+    },
+    {
+      "w": "zeuin2",
+      "p": "z i n"
+    },
+    {
+      "w": "zang",
+      "p": "z a N"
+    },
+    {
+      "w": "zing",
+      "p": "z i N"
+    },
+    {
+      "w": "zung",
+      "p": "z u N"
+    },
+    {
+      "w": "zeng",
+      "p": "z e N"
+    },
+    {
+      "w": "zong",
+      "p": "z w o N"
+    },
+    {
+      "w": "zaeng",
+      "p": "z e N"
+    },
+    {
+      "w": "zeung",
+      "p": "z u N"
+    },
+    {
+      "w": "zeong",
+      "p": "z o N"
+    },
+    {
+      "w": "zyang",
+      "p": "z y a N"
+    },
+    {
+      "w": "zyung",
+      "p": "z y u N"
+    },
+    {
+      "w": "zyeng",
+      "p": "z y e N"
+    },
+    {
+      "w": "zyong",
+      "p": "z y o N"
+    },
+    {
+      "w": "zyaeng",
+      "p": "z y e N"
+    },
+    {
+      "w": "zyeong",
+      "p": "z y o N"
+    },
+    {
+      "w": "zwang",
+      "p": "z w a N"
+    },
+    {
+      "w": "zwing",
+      "p": "z w i N"
+    },
+    {
+      "w": "zweng",
+      "p": "z w e N"
+    },
+    {
+      "w": "zwaeng",
+      "p": "z w e N"
+    },
+    {
+      "w": "zweong",
+      "p": "z w o N"
+    },
+    {
+      "w": "zoeng",
+      "p": "z w e N"
+    },
+    {
+      "w": "zeuing",
+      "p": "z u i N"
+    },
+    {
+      "w": "zyeng2",
+      "p": "z e N"
+    },
+    {
+      "w": "zyaeng2",
+      "p": "z e N"
+    },
+    {
+      "w": "zeuing2",
+      "p": "z i N"
+    },
+    {
+      "w": "zap",
+      "p": "z a p"
+    },
+    {
+      "w": "zip",
+      "p": "z i p"
+    },
+    {
+      "w": "zup",
+      "p": "z u p"
+    },
+    {
+      "w": "zep",
+      "p": "z e p"
+    },
+    {
+      "w": "zop",
+      "p": "z w o p"
+    },
+    {
+      "w": "zaep",
+      "p": "z e p"
+    },
+    {
+      "w": "zeup",
+      "p": "z u p"
+    },
+    {
+      "w": "zeop",
+      "p": "z o p"
+    },
+    {
+      "w": "zyap",
+      "p": "z y a p"
+    },
+    {
+      "w": "zyup",
+      "p": "z y u p"
+    },
+    {
+      "w": "zyep",
+      "p": "z y e p"
+    },
+    {
+      "w": "zyop",
+      "p": "z y o p"
+    },
+    {
+      "w": "zyaep",
+      "p": "z y e p"
+    },
+    {
+      "w": "zyeop",
+      "p": "z y o p"
+    },
+    {
+      "w": "zwap",
+      "p": "z w a p"
+    },
+    {
+      "w": "zwip",
+      "p": "z w i p"
+    },
+    {
+      "w": "zwep",
+      "p": "z w e p"
+    },
+    {
+      "w": "zwaep",
+      "p": "z w e p"
+    },
+    {
+      "w": "zweop",
+      "p": "z w o p"
+    },
+    {
+      "w": "zoep",
+      "p": "z w e p"
+    },
+    {
+      "w": "zeuip",
+      "p": "z u i p"
+    },
+    {
+      "w": "zyep2",
+      "p": "z e p"
+    },
+    {
+      "w": "zyaep2",
+      "p": "z e p"
+    },
+    {
+      "w": "zeuip2",
+      "p": "z i p"
+    },
+    {
+      "w": "zat",
+      "p": "z a t"
+    },
+    {
+      "w": "zit",
+      "p": "z i t"
+    },
+    {
+      "w": "zut",
+      "p": "z u t"
+    },
+    {
+      "w": "zet",
+      "p": "z e t"
+    },
+    {
+      "w": "zot",
+      "p": "z w o t"
+    },
+    {
+      "w": "zaet",
+      "p": "z e t"
+    },
+    {
+      "w": "zeut",
+      "p": "z u t"
+    },
+    {
+      "w": "zeot",
+      "p": "z o t"
+    },
+    {
+      "w": "zyat",
+      "p": "z y a t"
+    },
+    {
+      "w": "zyut",
+      "p": "z y u t"
+    },
+    {
+      "w": "zyet",
+      "p": "z y e t"
+    },
+    {
+      "w": "zyot",
+      "p": "z y o t"
+    },
+    {
+      "w": "zyaet",
+      "p": "z y e t"
+    },
+    {
+      "w": "zyeot",
+      "p": "z y o t"
+    },
+    {
+      "w": "zwat",
+      "p": "z w a t"
+    },
+    {
+      "w": "zwit",
+      "p": "z w i t"
+    },
+    {
+      "w": "zwet",
+      "p": "z w e t"
+    },
+    {
+      "w": "zwaet",
+      "p": "z w e t"
+    },
+    {
+      "w": "zweot",
+      "p": "z w o t"
+    },
+    {
+      "w": "zoet",
+      "p": "z w e t"
+    },
+    {
+      "w": "zeuit",
+      "p": "z u i t"
+    },
+    {
+      "w": "zyet2",
+      "p": "z e t"
+    },
+    {
+      "w": "zyaet2",
+      "p": "z e t"
+    },
+    {
+      "w": "zeuit2",
+      "p": "z i t"
+    },
+    {
+      "w": "zak",
+      "p": "z a k"
+    },
+    {
+      "w": "zik",
+      "p": "z i k"
+    },
+    {
+      "w": "zuk",
+      "p": "z u k"
+    },
+    {
+      "w": "zek",
+      "p": "z e k"
+    },
+    {
+      "w": "zok",
+      "p": "z w o k"
+    },
+    {
+      "w": "zaek",
+      "p": "z e k"
+    },
+    {
+      "w": "zeuk",
+      "p": "z u k"
+    },
+    {
+      "w": "zeok",
+      "p": "z o k"
+    },
+    {
+      "w": "zyak",
+      "p": "z y a k"
+    },
+    {
+      "w": "zyuk",
+      "p": "z y u k"
+    },
+    {
+      "w": "zyek",
+      "p": "z y e k"
+    },
+    {
+      "w": "zyok",
+      "p": "z y o k"
+    },
+    {
+      "w": "zyaek",
+      "p": "z y e k"
+    },
+    {
+      "w": "zyeok",
+      "p": "z y o k"
+    },
+    {
+      "w": "zwak",
+      "p": "z w a k"
+    },
+    {
+      "w": "zwik",
+      "p": "z w i k"
+    },
+    {
+      "w": "zwek",
+      "p": "z w e k"
+    },
+    {
+      "w": "zwaek",
+      "p": "z w e k"
+    },
+    {
+      "w": "zweok",
+      "p": "z w o k"
+    },
+    {
+      "w": "zoek",
+      "p": "z w e k"
+    },
+    {
+      "w": "zeuik",
+      "p": "z u i k"
+    },
+    {
+      "w": "zyek2",
+      "p": "z e k"
+    },
+    {
+      "w": "zyaek2",
+      "p": "z e k"
+    },
+    {
+      "w": "zeuik2",
+      "p": "z i k"
+    },
+    {
+      "w": "zal",
+      "p": "z a r"
+    },
+    {
+      "w": "zil",
+      "p": "z i r"
+    },
+    {
+      "w": "zul",
+      "p": "z u r"
+    },
+    {
+      "w": "zel",
+      "p": "z e r"
+    },
+    {
+      "w": "zol",
+      "p": "z w o r"
+    },
+    {
+      "w": "zael",
+      "p": "z e r"
+    },
+    {
+      "w": "zeul",
+      "p": "z u r"
+    },
+    {
+      "w": "zeol",
+      "p": "z o r"
+    },
+    {
+      "w": "zyal",
+      "p": "z y a r"
+    },
+    {
+      "w": "zyul",
+      "p": "z y u r"
+    },
+    {
+      "w": "zyel",
+      "p": "z y e r"
+    },
+    {
+      "w": "zyol",
+      "p": "z y o r"
+    },
+    {
+      "w": "zyael",
+      "p": "z y e r"
+    },
+    {
+      "w": "zyeol",
+      "p": "z y o r"
+    },
+    {
+      "w": "zwal",
+      "p": "z w a r"
+    },
+    {
+      "w": "zwil",
+      "p": "z w i r"
+    },
+    {
+      "w": "zwel",
+      "p": "z w e r"
+    },
+    {
+      "w": "zwael",
+      "p": "z w e r"
+    },
+    {
+      "w": "zweol",
+      "p": "z w o r"
+    },
+    {
+      "w": "zoel",
+      "p": "z w e r"
+    },
+    {
+      "w": "zeuil",
+      "p": "z u i r"
+    },
+    {
+      "w": "zyel2",
+      "p": "z e r"
+    },
+    {
+      "w": "zyael2",
+      "p": "z e r"
+    },
+    {
+      "w": "zeuil2",
+      "p": "z i r"
+    },
+    {
       "w": "p",
       "p": "p"
     },
