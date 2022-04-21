@@ -7,4 +7,4 @@ Also, credit isn't necessary, I don't really mind; but if you'd like to, feel fr
 ## Notes
 * Alternate pronunciation for some syllables by adding 2 or 3 to the end
 * Includes individual ending consonants (i.e. k, ng, l). Uppercase aliases are included too
-* Includes syllables starting with "f" and "v"
+* Includes syllables starting with "f", "v", and "z"
