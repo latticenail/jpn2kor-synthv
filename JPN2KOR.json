@@ -786,7 +786,7 @@
     },
     {
       "w": "geui",
-      "p": "g w i"
+      "p": "gw i"
     },
     {
       "w": "gye2",
@@ -882,7 +882,7 @@
     },
     {
       "w": "geuim",
-      "p": "g w i m"
+      "p": "gw i m"
     },
     {
       "w": "gyem2",
@@ -978,7 +978,7 @@
     },
     {
       "w": "geuin",
-      "p": "g w i n"
+      "p": "gw i n"
     },
     {
       "w": "gyen2",
@@ -1074,7 +1074,7 @@
     },
     {
       "w": "geuing",
-      "p": "g w i N"
+      "p": "gw i N"
     },
     {
       "w": "gyeng2",
@@ -1170,7 +1170,7 @@
     },
     {
       "w": "geuip",
-      "p": "g w i p"
+      "p": "gw i p"
     },
     {
       "w": "gyep2",
@@ -1266,7 +1266,7 @@
     },
     {
       "w": "geuit",
-      "p": "g w i t"
+      "p": "gw i t"
     },
     {
       "w": "gyet2",
@@ -1362,7 +1362,7 @@
     },
     {
       "w": "geuik",
-      "p": "g w i k"
+      "p": "gw i k"
     },
     {
       "w": "gyek2",
@@ -1458,7 +1458,7 @@
     },
     {
       "w": "geuil",
-      "p": "g w i r"
+      "p": "gw i r"
     },
     {
       "w": "gyel2",
@@ -9938,7 +9938,7 @@
     },
     {
       "w": "keui",
-      "p": "k w i"
+      "p": "kw i"
     },
     {
       "w": "kye2",
@@ -10034,7 +10034,7 @@
     },
     {
       "w": "keuim",
-      "p": "k w i m"
+      "p": "kw i m"
     },
     {
       "w": "kyem2",
@@ -10130,7 +10130,7 @@
     },
     {
       "w": "keuin",
-      "p": "k w i n"
+      "p": "kw i n"
     },
     {
       "w": "kyen2",
@@ -10226,7 +10226,7 @@
     },
     {
       "w": "keuing",
-      "p": "k w i N"
+      "p": "kw i N"
     },
     {
       "w": "kyeng2",
@@ -10322,7 +10322,7 @@
     },
     {
       "w": "keuip",
-      "p": "k w i p"
+      "p": "kw i p"
     },
     {
       "w": "kyep2",
@@ -10418,7 +10418,7 @@
     },
     {
       "w": "keuit",
-      "p": "k w i t"
+      "p": "kw i t"
     },
     {
       "w": "kyet2",
@@ -10514,7 +10514,7 @@
     },
     {
       "w": "keuik",
-      "p": "k w i k"
+      "p": "kw i k"
     },
     {
       "w": "kyek2",
@@ -10610,7 +10610,7 @@
     },
     {
       "w": "keuil",
-      "p": "k w i r"
+      "p": "kw i r"
     },
     {
       "w": "kyel2",
@@ -13266,7 +13266,7 @@
     },
     {
       "w": "ggeui",
-      "p": "cl k w i"
+      "p": "cl kw i"
     },
     {
       "w": "ggye2",
@@ -13362,7 +13362,7 @@
     },
     {
       "w": "ggeuim",
-      "p": "cl k w i m"
+      "p": "cl kw i m"
     },
     {
       "w": "ggyem2",
@@ -13458,7 +13458,7 @@
     },
     {
       "w": "ggeuin",
-      "p": "cl k w i n"
+      "p": "cl kw i n"
     },
     {
       "w": "ggyen2",
@@ -13554,7 +13554,7 @@
     },
     {
       "w": "ggeuing",
-      "p": "cl k w i N"
+      "p": "cl kw i N"
     },
     {
       "w": "ggyeng2",
@@ -13650,7 +13650,7 @@
     },
     {
       "w": "ggeuip",
-      "p": "cl k w i p"
+      "p": "cl kw i p"
     },
     {
       "w": "ggyep2",
@@ -13746,7 +13746,7 @@
     },
     {
       "w": "ggeuit",
-      "p": "cl k w i t"
+      "p": "cl kw i t"
     },
     {
       "w": "ggyet2",
@@ -13842,7 +13842,7 @@
     },
     {
       "w": "ggeuik",
-      "p": "cl k w i k"
+      "p": "cl kw i k"
     },
     {
       "w": "ggyek2",
@@ -13938,7 +13938,7 @@
     },
     {
       "w": "ggeuil",
-      "p": "cl k w i r"
+      "p": "cl kw i r"
     },
     {
       "w": "ggyel2",
