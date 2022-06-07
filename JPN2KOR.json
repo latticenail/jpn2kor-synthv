@@ -15650,707 +15650,623 @@
     },
     {
       "w": "ssa",
-      "p": "s a"
+      "p": "s s a"
     },
     {
       "w": "ssi",
-      "p": "sh i"
+      "p": "sh sh i"
     },
     {
       "w": "ssu",
-      "p": "s u"
+      "p": "s s u"
     },
     {
       "w": "sse",
-      "p": "s e"
+      "p": "s s e"
     },
     {
       "w": "sso",
-      "p": "s o"
+      "p": "s s o"
     },
     {
       "w": "ssae",
-      "p": "s e"
+      "p": "s s e"
     },
     {
       "w": "sseu",
-      "p": "s u"
+      "p": "s s u"
     },
     {
       "w": "sseo",
-      "p": "s o"
+      "p": "s s o"
     },
     {
       "w": "ssya",
-      "p": "sh a"
+      "p": "sh sh a"
     },
     {
       "w": "ssyu",
-      "p": "sh u"
+      "p": "sh sh u"
     },
     {
       "w": "ssye",
-      "p": "sh e"
+      "p": "sh sh e"
     },
     {
       "w": "ssyo",
-      "p": "sh o"
+      "p": "sh sh o"
     },
     {
       "w": "ssyae",
-      "p": "sh e"
+      "p": "sh sh e"
     },
     {
       "w": "ssyeo",
-      "p": "sh o"
+      "p": "sh sh o"
     },
     {
       "w": "sswa",
-      "p": "s w a"
+      "p": "s s w a"
     },
     {
       "w": "sswi",
-      "p": "sh w i"
+      "p": "sh sh w i"
     },
     {
       "w": "sswe",
-      "p": "s w e"
+      "p": "s s w e"
     },
     {
       "w": "sswae",
-      "p": "s w e"
+      "p": "s s w e"
     },
     {
       "w": "ssweo",
-      "p": "s w o"
+      "p": "s s w o"
     },
     {
       "w": "ssoe",
-      "p": "s w e"
+      "p": "s s w e"
     },
     {
       "w": "sseui",
-      "p": "s w i"
+      "p": "s s w i"
     },
     {
       "w": "sseui2",
-      "p": "sh i"
+      "p": "sh sh i"
     },
     {
       "w": "ssam",
-      "p": "s a m"
+      "p": "s s a m"
     },
     {
       "w": "ssim",
-      "p": "sh i m"
+      "p": "sh sh i m"
     },
     {
       "w": "ssum",
-      "p": "s u m"
+      "p": "s s u m"
     },
     {
       "w": "ssem",
-      "p": "s e m"
+      "p": "s s e m"
     },
     {
       "w": "ssom",
-      "p": "s o m"
+      "p": "s s o m"
     },
     {
       "w": "ssaem",
-      "p": "s e m"
+      "p": "s s e m"
     },
     {
       "w": "sseum",
-      "p": "s u m"
+      "p": "s s u m"
     },
     {
       "w": "sseom",
-      "p": "s o m"
+      "p": "s s o m"
     },
     {
       "w": "ssyam",
-      "p": "sh a m"
+      "p": "sh sh a m"
     },
     {
       "w": "ssyum",
-      "p": "sh u m"
+      "p": "sh sh u m"
     },
     {
       "w": "ssyem",
-      "p": "sh e m"
+      "p": "sh sh e m"
     },
     {
       "w": "ssyom",
-      "p": "sh o m"
+      "p": "sh sh o m"
     },
     {
       "w": "ssyaem",
-      "p": "sh e m"
+      "p": "sh sh e m"
     },
     {
       "w": "ssyeom",
-      "p": "sh o m"
+      "p": "sh sh o m"
     },
     {
       "w": "sswam",
-      "p": "s w a m"
+      "p": "s s w a m"
     },
     {
       "w": "sswim",
-      "p": "sh w i m"
+      "p": "sh sh w i m"
     },
     {
       "w": "sswem",
-      "p": "s w e m"
+      "p": "s s w e m"
     },
     {
       "w": "sswaem",
-      "p": "s w e m"
+      "p": "s s w e m"
     },
     {
       "w": "ssweom",
-      "p": "s w o m"
+      "p": "s s w o m"
     },
     {
       "w": "ssoem",
-      "p": "s w e m"
+      "p": "s s w e m"
     },
     {
       "w": "sseuim",
-      "p": "s w i m"
+      "p": "s s w i m"
     },
     {
       "w": "sseuim2",
-      "p": "sh i m"
+      "p": "sh sh i m"
     },
     {
       "w": "ssan",
-      "p": "s a n"
+      "p": "s s a n"
     },
     {
       "w": "ssin",
-      "p": "sh i n"
+      "p": "sh sh i n"
     },
     {
       "w": "ssun",
-      "p": "s u n"
+      "p": "s s u n"
     },
     {
       "w": "ssen",
-      "p": "s e n"
+      "p": "s s e n"
     },
     {
       "w": "sson",
-      "p": "s o n"
+      "p": "s s o n"
     },
     {
       "w": "ssaen",
-      "p": "s e n"
+      "p": "s s e n"
     },
     {
       "w": "sseun",
-      "p": "s u n"
+      "p": "s s u n"
     },
     {
       "w": "sseon",
-      "p": "s o n"
+      "p": "s s o n"
     },
     {
       "w": "ssyan",
-      "p": "sh a n"
+      "p": "sh sh a n"
     },
     {
       "w": "ssyun",
-      "p": "sh u n"
+      "p": "sh sh u n"
     },
     {
       "w": "ssyen",
-      "p": "sh e n"
+      "p": "sh sh e n"
     },
     {
       "w": "ssyon",
-      "p": "sh o n"
+      "p": "sh sh o n"
     },
     {
       "w": "ssyaen",
-      "p": "sh e n"
+      "p": "sh sh e n"
     },
     {
       "w": "ssyeon",
-      "p": "sh o n"
+      "p": "sh sh o n"
     },
     {
       "w": "sswan",
-      "p": "s w a n"
+      "p": "s s w a n"
     },
     {
       "w": "sswin",
-      "p": "sh w i n"
+      "p": "sh sh w i n"
     },
     {
       "w": "sswen",
-      "p": "s w e n"
+      "p": "s s w e n"
     },
     {
       "w": "sswaen",
-      "p": "s w e n"
+      "p": "s s w e n"
     },
     {
       "w": "ssweon",
-      "p": "s w o n"
+      "p": "s s w o n"
     },
     {
       "w": "ssoen",
-      "p": "s w e n"
+      "p": "s s w e n"
     },
     {
       "w": "sseuin",
-      "p": "s w i n"
+      "p": "s s w i n"
     },
     {
       "w": "sseuin2",
-      "p": "sh i n"
-    },
-    {
-      "w": "ssang",
-      "p": "s a N"
-    },
-    {
-      "w": "ssing",
-      "p": "sh i N"
-    },
-    {
-      "w": "ssung",
-      "p": "s u N"
-    },
-    {
-      "w": "sseng",
-      "p": "s e N"
-    },
-    {
-      "w": "ssong",
-      "p": "s o N"
-    },
-    {
-      "w": "ssaeng",
-      "p": "s e N"
-    },
-    {
-      "w": "sseung",
-      "p": "s u N"
-    },
-    {
-      "w": "sseong",
-      "p": "s o N"
-    },
-    {
-      "w": "ssyang",
-      "p": "sh a N"
-    },
-    {
-      "w": "ssyung",
-      "p": "sh u N"
-    },
-    {
-      "w": "ssyeng",
-      "p": "sh e N"
-    },
-    {
-      "w": "ssyong",
-      "p": "sh o N"
-    },
-    {
-      "w": "ssyaeng",
-      "p": "sh e N"
-    },
-    {
-      "w": "ssyeong",
-      "p": "sh o N"
-    },
-    {
-      "w": "sswang",
-      "p": "s w a N"
-    },
-    {
-      "w": "sswing",
-      "p": "sh w i N"
-    },
-    {
-      "w": "ssweng",
-      "p": "s w e N"
-    },
-    {
-      "w": "sswaeng",
-      "p": "s w e N"
-    },
-    {
-      "w": "ssweong",
-      "p": "s w o N"
-    },
-    {
-      "w": "ssoeng",
-      "p": "s w e N"
-    },
-    {
-      "w": "sseuing",
-      "p": "s w i N"
-    },
-    {
-      "w": "sseuing2",
-      "p": "sh i N"
+      "p": "sh sh i n"
     },
     {
       "w": "ssap",
-      "p": "s a p"
+      "p": "s s a p"
     },
     {
       "w": "ssip",
-      "p": "sh i p"
+      "p": "sh sh i p"
     },
     {
       "w": "ssup",
-      "p": "s u p"
+      "p": "s s u p"
     },
     {
       "w": "ssep",
-      "p": "s e p"
+      "p": "s s e p"
     },
     {
       "w": "ssop",
-      "p": "s o p"
+      "p": "s s o p"
     },
     {
       "w": "ssaep",
-      "p": "s e p"
+      "p": "s s e p"
     },
     {
       "w": "sseup",
-      "p": "s u p"
+      "p": "s s u p"
     },
     {
       "w": "sseop",
-      "p": "s o p"
+      "p": "s s o p"
     },
     {
       "w": "ssyap",
-      "p": "sh a p"
+      "p": "sh sh a p"
     },
     {
       "w": "ssyup",
-      "p": "sh u p"
+      "p": "sh sh u p"
     },
     {
       "w": "ssyep",
-      "p": "sh e p"
+      "p": "sh sh e p"
     },
     {
       "w": "ssyop",
-      "p": "sh o p"
+      "p": "sh sh o p"
     },
     {
       "w": "ssyaep",
-      "p": "sh e p"
+      "p": "sh sh e p"
     },
     {
       "w": "ssyeop",
-      "p": "sh o p"
+      "p": "sh sh o p"
     },
     {
       "w": "sswap",
-      "p": "s w a p"
+      "p": "s s w a p"
     },
     {
       "w": "sswip",
-      "p": "sh w i p"
+      "p": "sh sh w i p"
     },
     {
       "w": "sswep",
-      "p": "s w e p"
+      "p": "s s w e p"
     },
     {
       "w": "sswaep",
-      "p": "s w e p"
+      "p": "s s w e p"
     },
     {
       "w": "ssweop",
-      "p": "s w o p"
+      "p": "s s w o p"
     },
     {
       "w": "ssoep",
-      "p": "s w e p"
+      "p": "s s w e p"
     },
     {
       "w": "sseuip",
-      "p": "s w i p"
+      "p": "s s w i p"
     },
     {
       "w": "sseuip2",
-      "p": "sh i p"
+      "p": "sh sh i p"
     },
     {
       "w": "ssat",
-      "p": "s a t"
+      "p": "s s a t"
     },
     {
       "w": "ssit",
-      "p": "sh i t"
+      "p": "sh sh i t"
     },
     {
       "w": "ssut",
-      "p": "s u t"
+      "p": "s s u t"
     },
     {
       "w": "sset",
-      "p": "s e t"
+      "p": "s s e t"
     },
     {
       "w": "ssot",
-      "p": "s o t"
+      "p": "s s o t"
     },
     {
       "w": "ssaet",
-      "p": "s e t"
+      "p": "s s e t"
     },
     {
       "w": "sseut",
-      "p": "s u t"
+      "p": "s s u t"
     },
     {
       "w": "sseot",
-      "p": "s o t"
+      "p": "s s o t"
     },
     {
       "w": "ssyat",
-      "p": "sh a t"
+      "p": "sh sh a t"
     },
     {
       "w": "ssyut",
-      "p": "sh u t"
+      "p": "sh sh u t"
     },
     {
       "w": "ssyet",
-      "p": "sh e t"
+      "p": "sh sh e t"
     },
     {
       "w": "ssyot",
-      "p": "sh o t"
+      "p": "sh sh o t"
     },
     {
       "w": "ssyaet",
-      "p": "sh e t"
+      "p": "sh sh e t"
     },
     {
       "w": "ssyeot",
-      "p": "sh o t"
+      "p": "sh sh o t"
     },
     {
       "w": "sswat",
-      "p": "s w a t"
+      "p": "s s w a t"
     },
     {
       "w": "sswit",
-      "p": "sh w i t"
+      "p": "sh sh w i t"
     },
     {
       "w": "sswet",
-      "p": "s w e t"
+      "p": "s s w e t"
     },
     {
       "w": "sswaet",
-      "p": "s w e t"
+      "p": "s s w e t"
     },
     {
       "w": "ssweot",
-      "p": "s w o t"
+      "p": "s s w o t"
     },
     {
       "w": "ssoet",
-      "p": "s w e t"
+      "p": "s s w e t"
     },
     {
       "w": "sseuit",
-      "p": "s w i t"
+      "p": "s s w i t"
     },
     {
       "w": "sseuit2",
-      "p": "sh i t"
+      "p": "sh sh i t"
     },
     {
       "w": "ssak",
       "p": "s a k"
     },
     {
+      "w": "ssak",
+      "p": "s s a k"
+    },
+    {
       "w": "ssik",
-      "p": "sh i k"
+      "p": "sh sh i k"
     },
     {
       "w": "ssuk",
-      "p": "s u k"
+      "p": "s s u k"
     },
     {
       "w": "ssek",
-      "p": "s e k"
+      "p": "s s e k"
     },
     {
       "w": "ssok",
-      "p": "s o k"
+      "p": "s s o k"
     },
     {
       "w": "ssaek",
-      "p": "s e k"
+      "p": "s s e k"
     },
     {
       "w": "sseuk",
-      "p": "s u k"
+      "p": "s s u k"
     },
     {
       "w": "sseok",
-      "p": "s o k"
+      "p": "s s o k"
     },
     {
       "w": "ssyak",
-      "p": "sh a k"
+      "p": "sh sh a k"
     },
     {
       "w": "ssyuk",
-      "p": "sh u k"
+      "p": "sh sh u k"
     },
     {
       "w": "ssyek",
-      "p": "sh e k"
+      "p": "sh sh e k"
     },
     {
       "w": "ssyok",
-      "p": "sh o k"
+      "p": "sh sh o k"
     },
     {
       "w": "ssyaek",
-      "p": "sh e k"
+      "p": "sh sh e k"
     },
     {
       "w": "ssyeok",
-      "p": "sh o k"
+      "p": "sh sh o k"
     },
     {
       "w": "sswak",
-      "p": "s w a k"
+      "p": "s s w a k"
     },
     {
       "w": "sswik",
-      "p": "sh w i k"
+      "p": "sh sh w i k"
     },
     {
       "w": "sswek",
-      "p": "s w e k"
+      "p": "s s w e k"
     },
     {
       "w": "sswaek",
-      "p": "s w e k"
+      "p": "s s w e k"
     },
     {
       "w": "ssweok",
-      "p": "s w o k"
+      "p": "s s w o k"
     },
     {
       "w": "ssoek",
-      "p": "s w e k"
+      "p": "s s w e k"
     },
     {
       "w": "sseuik",
-      "p": "s w i k"
+      "p": "s s w i k"
     },
     {
       "w": "sseuik2",
-      "p": "sh i k"
+      "p": "sh sh i k"
     },
     {
       "w": "ssal",
-      "p": "s a r"
+      "p": "s s a r"
     },
     {
       "w": "ssil",
-      "p": "sh i r"
+      "p": "sh sh i r"
     },
     {
       "w": "ssul",
-      "p": "s u r"
+      "p": "s s u r"
     },
     {
       "w": "ssel",
-      "p": "s e r"
+      "p": "s s e r"
     },
     {
       "w": "ssol",
-      "p": "s o r"
+      "p": "s s o r"
     },
     {
       "w": "ssael",
-      "p": "s e r"
+      "p": "s s e r"
     },
     {
       "w": "sseul",
-      "p": "s u r"
+      "p": "s s u r"
     },
     {
       "w": "sseol",
-      "p": "s o r"
+      "p": "s s o r"
     },
     {
       "w": "ssyal",
-      "p": "sh a r"
+      "p": "sh sh a r"
     },
     {
       "w": "ssyul",
-      "p": "sh u r"
+      "p": "sh sh u r"
     },
     {
       "w": "ssyel",
-      "p": "sh e r"
+      "p": "sh sh e r"
     },
     {
       "w": "ssyol",
-      "p": "sh o r"
+      "p": "sh sh o r"
     },
     {
       "w": "ssyael",
-      "p": "sh e r"
+      "p": "sh sh e r"
     },
     {
       "w": "ssyeol",
-      "p": "sh o r"
+      "p": "sh sh o r"
     },
     {
       "w": "sswal",
-      "p": "s w a r"
+      "p": "s s w a r"
     },
     {
       "w": "sswil",
-      "p": "sh w i r"
+      "p": "sh sh w i r"
     },
     {
       "w": "sswel",
-      "p": "s w e r"
+      "p": "s s w e r"
     },
     {
       "w": "sswael",
-      "p": "s w e r"
+      "p": "s s w e r"
     },
     {
       "w": "ssweol",
-      "p": "s w o r"
+      "p": "s s w o r"
     },
     {
       "w": "ssoel",
-      "p": "s w e r"
+      "p": "s s w e r"
     },
     {
       "w": "sseuil",
-      "p": "s w i r"
+      "p": "s s w i r"
     },
     {
-      "w": "sseuil2",
-      "p": "sh i r"
+      "w": "sseuir2",
+      "p": "sh sh i r"
     },
     {
       "w": "jja",
@@ -20122,7 +20038,7 @@
     },
     {
       "w": "ss",
-      "p": "s"
+      "p": "s s"
     },
     {
       "w": "H",
