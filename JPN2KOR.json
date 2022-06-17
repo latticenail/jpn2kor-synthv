@@ -7042,27 +7042,27 @@
     },
     {
       "w": "jya",
-      "p": "j y a"
+      "p": "j a"
     },
     {
       "w": "jyu",
-      "p": "j y u"
+      "p": "j u"
     },
     {
       "w": "jye",
-      "p": "j y e"
+      "p": "j e"
     },
     {
       "w": "jyo",
-      "p": "j y o"
+      "p": "j o"
     },
     {
       "w": "jyae",
-      "p": "j y e"
+      "p": "j e"
     },
     {
       "w": "jyeo",
-      "p": "j y o"
+      "p": "j o"
     },
     {
       "w": "jwa",
@@ -7091,14 +7091,6 @@
     {
       "w": "jeui",
       "p": "j w i"
-    },
-    {
-      "w": "jye3",
-      "p": "j e"
-    },
-    {
-      "w": "jyae3",
-      "p": "j e"
     },
     {
       "w": "jeui3",
@@ -7138,27 +7130,27 @@
     },
     {
       "w": "jyam",
-      "p": "j y a m"
+      "p": "j a m"
     },
     {
       "w": "jyum",
-      "p": "j y u m"
+      "p": "j u m"
     },
     {
       "w": "jyem",
-      "p": "j y e m"
+      "p": "j e m"
     },
     {
       "w": "jyom",
-      "p": "j y o m"
+      "p": "j o m"
     },
     {
       "w": "jyaem",
-      "p": "j y e m"
+      "p": "j e m"
     },
     {
       "w": "jyeom",
-      "p": "j y o m"
+      "p": "j o m"
     },
     {
       "w": "jwam",
@@ -7187,14 +7179,6 @@
     {
       "w": "jeuim",
       "p": "j w i m"
-    },
-    {
-      "w": "jyem3",
-      "p": "j e m"
-    },
-    {
-      "w": "jyaem3",
-      "p": "j e m"
     },
     {
       "w": "jeuim3",
@@ -7234,27 +7218,27 @@
     },
     {
       "w": "jyan",
-      "p": "j y a n"
+      "p": "j a n"
     },
     {
       "w": "jyun",
-      "p": "j y u n"
+      "p": "j u n"
     },
     {
       "w": "jyen",
-      "p": "j y e n"
+      "p": "j e n"
     },
     {
       "w": "jyon",
-      "p": "j y o n"
+      "p": "j o n"
     },
     {
       "w": "jyaen",
-      "p": "j y e n"
+      "p": "j e n"
     },
     {
       "w": "jyeon",
-      "p": "j y o n"
+      "p": "j o n"
     },
     {
       "w": "jwan",
@@ -7283,14 +7267,6 @@
     {
       "w": "jeuin",
       "p": "j w i n"
-    },
-    {
-      "w": "jyen3",
-      "p": "j e n"
-    },
-    {
-      "w": "jyaen3",
-      "p": "j e n"
     },
     {
       "w": "jeuin3",
@@ -7330,27 +7306,27 @@
     },
     {
       "w": "jyang",
-      "p": "j y a N"
+      "p": "j a N"
     },
     {
       "w": "jyung",
-      "p": "j y u N"
+      "p": "j u N"
     },
     {
       "w": "jyeng",
-      "p": "j y e N"
+      "p": "j e N"
     },
     {
       "w": "jyong",
-      "p": "j y o N"
+      "p": "j o N"
     },
     {
       "w": "jyaeng",
-      "p": "j y e N"
+      "p": "j e N"
     },
     {
       "w": "jyeong",
-      "p": "j y o N"
+      "p": "j o N"
     },
     {
       "w": "jwang",
@@ -7379,14 +7355,6 @@
     {
       "w": "jeuing",
       "p": "j w i N"
-    },
-    {
-      "w": "jyeng3",
-      "p": "j e N"
-    },
-    {
-      "w": "jyaeng3",
-      "p": "j e N"
     },
     {
       "w": "jeuing3",
@@ -7426,27 +7394,27 @@
     },
     {
       "w": "jyap",
-      "p": "j y a p"
+      "p": "j a p"
     },
     {
       "w": "jyup",
-      "p": "j y u p"
+      "p": "j u p"
     },
     {
       "w": "jyep",
-      "p": "j y e p"
+      "p": "j e p"
     },
     {
       "w": "jyop",
-      "p": "j y o p"
+      "p": "j o p"
     },
     {
       "w": "jyaep",
-      "p": "j y e p"
+      "p": "j e p"
     },
     {
       "w": "jyeop",
-      "p": "j y o p"
+      "p": "j o p"
     },
     {
       "w": "jwap",
@@ -7475,14 +7443,6 @@
     {
       "w": "jeuip",
       "p": "j w i p"
-    },
-    {
-      "w": "jyep3",
-      "p": "j e p"
-    },
-    {
-      "w": "jyaep3",
-      "p": "j e p"
     },
     {
       "w": "jeuip3",
@@ -7522,27 +7482,27 @@
     },
     {
       "w": "jyat",
-      "p": "j y a t"
+      "p": "j a t"
     },
     {
       "w": "jyut",
-      "p": "j y u t"
+      "p": "j u t"
     },
     {
       "w": "jyet",
-      "p": "j y e t"
+      "p": "j e t"
     },
     {
       "w": "jyot",
-      "p": "j y o t"
+      "p": "j o t"
     },
     {
       "w": "jyaet",
-      "p": "j y e t"
+      "p": "j e t"
     },
     {
       "w": "jyeot",
-      "p": "j y o t"
+      "p": "j o t"
     },
     {
       "w": "jwat",
@@ -7571,14 +7531,6 @@
     {
       "w": "jeuit",
       "p": "j w i t"
-    },
-    {
-      "w": "jyet3",
-      "p": "j e t"
-    },
-    {
-      "w": "jyaet3",
-      "p": "j e t"
     },
     {
       "w": "jeuit3",
@@ -7618,27 +7570,27 @@
     },
     {
       "w": "jyak",
-      "p": "j y a k"
+      "p": "j a k"
     },
     {
       "w": "jyuk",
-      "p": "j y u k"
+      "p": "j u k"
     },
     {
       "w": "jyek",
-      "p": "j y e k"
+      "p": "j e k"
     },
     {
       "w": "jyok",
-      "p": "j y o k"
+      "p": "j o k"
     },
     {
       "w": "jyaek",
-      "p": "j y e k"
+      "p": "j e k"
     },
     {
       "w": "jyeok",
-      "p": "j y o k"
+      "p": "j o k"
     },
     {
       "w": "jwak",
@@ -7667,14 +7619,6 @@
     {
       "w": "jeuik",
       "p": "j w i k"
-    },
-    {
-      "w": "jyek3",
-      "p": "j e k"
-    },
-    {
-      "w": "jyaek3",
-      "p": "j e k"
     },
     {
       "w": "jeuik3",
@@ -7714,27 +7658,27 @@
     },
     {
       "w": "jyal",
-      "p": "j y a r"
+      "p": "j a r"
     },
     {
       "w": "jyul",
-      "p": "j y u r"
+      "p": "j u r"
     },
     {
       "w": "jyel",
-      "p": "j y e r"
+      "p": "j e r"
     },
     {
       "w": "jyol",
-      "p": "j y o r"
+      "p": "j o r"
     },
     {
       "w": "jyael",
-      "p": "j y e r"
+      "p": "j e r"
     },
     {
       "w": "jyeol",
-      "p": "j y o r"
+      "p": "j o r"
     },
     {
       "w": "jwal",
@@ -7763,14 +7707,6 @@
     {
       "w": "jeuil",
       "p": "j w i r"
-    },
-    {
-      "w": "jyel3",
-      "p": "j e r"
-    },
-    {
-      "w": "jyael3",
-      "p": "j e r"
     },
     {
       "w": "jeuil3",
@@ -7803,30 +7739,6 @@
     {
       "w": "jeo2",
       "p": "z o"
-    },
-    {
-      "w": "jya2",
-      "p": "j a"
-    },
-    {
-      "w": "jyu2",
-      "p": "j u"
-    },
-    {
-      "w": "jye2",
-      "p": "j e"
-    },
-    {
-      "w": "jyo2",
-      "p": "j o"
-    },
-    {
-      "w": "jyae2",
-      "p": "j e"
-    },
-    {
-      "w": "jyeo2",
-      "p": "j o"
     },
     {
       "w": "jwa2",
@@ -7885,30 +7797,6 @@
       "p": "z o m"
     },
     {
-      "w": "jyam2",
-      "p": "j a m"
-    },
-    {
-      "w": "jyum2",
-      "p": "j u m"
-    },
-    {
-      "w": "jyem2",
-      "p": "j e m"
-    },
-    {
-      "w": "jyom2",
-      "p": "j o m"
-    },
-    {
-      "w": "jyaem2",
-      "p": "j e m"
-    },
-    {
-      "w": "jyeom2",
-      "p": "j o m"
-    },
-    {
       "w": "jwam2",
       "p": "z w a m"
     },
@@ -7963,30 +7851,6 @@
     {
       "w": "jeon2",
       "p": "z o n"
-    },
-    {
-      "w": "jyan2",
-      "p": "j a n"
-    },
-    {
-      "w": "jyun2",
-      "p": "j u n"
-    },
-    {
-      "w": "jyen2",
-      "p": "j e n"
-    },
-    {
-      "w": "jyon2",
-      "p": "j o n"
-    },
-    {
-      "w": "jyaen2",
-      "p": "j e n"
-    },
-    {
-      "w": "jyeon2",
-      "p": "j o n"
     },
     {
       "w": "jwan2",
@@ -8045,30 +7909,6 @@
       "p": "z o N"
     },
     {
-      "w": "jyang2",
-      "p": "j a N"
-    },
-    {
-      "w": "jyung2",
-      "p": "j u N"
-    },
-    {
-      "w": "jyeng2",
-      "p": "j e N"
-    },
-    {
-      "w": "jyong2",
-      "p": "j o N"
-    },
-    {
-      "w": "jyaeng2",
-      "p": "j e N"
-    },
-    {
-      "w": "jyeong2",
-      "p": "j o N"
-    },
-    {
       "w": "jwang2",
       "p": "z w a N"
     },
@@ -8123,30 +7963,6 @@
     {
       "w": "jeop2",
       "p": "z o p"
-    },
-    {
-      "w": "jyap2",
-      "p": "j a p"
-    },
-    {
-      "w": "jyup2",
-      "p": "j u p"
-    },
-    {
-      "w": "jyep2",
-      "p": "j e p"
-    },
-    {
-      "w": "jyop2",
-      "p": "j o p"
-    },
-    {
-      "w": "jyaep2",
-      "p": "j e p"
-    },
-    {
-      "w": "jyeop2",
-      "p": "j o p"
     },
     {
       "w": "jwap2",
@@ -8205,30 +8021,6 @@
       "p": "z o t"
     },
     {
-      "w": "jyat2",
-      "p": "j a t"
-    },
-    {
-      "w": "jyut2",
-      "p": "j u t"
-    },
-    {
-      "w": "jyet2",
-      "p": "j e t"
-    },
-    {
-      "w": "jyot2",
-      "p": "j o t"
-    },
-    {
-      "w": "jyaet2",
-      "p": "j e t"
-    },
-    {
-      "w": "jyeot2",
-      "p": "j o t"
-    },
-    {
       "w": "jwat2",
       "p": "z w a t"
     },
@@ -8285,30 +8077,6 @@
       "p": "z o k"
     },
     {
-      "w": "jyak2",
-      "p": "j a k"
-    },
-    {
-      "w": "jyuk2",
-      "p": "j u k"
-    },
-    {
-      "w": "jyek2",
-      "p": "j e k"
-    },
-    {
-      "w": "jyok2",
-      "p": "j o k"
-    },
-    {
-      "w": "jyaek2",
-      "p": "j e k"
-    },
-    {
-      "w": "jyeok2",
-      "p": "j o k"
-    },
-    {
       "w": "jwak2",
       "p": "z w a k"
     },
@@ -8363,30 +8131,6 @@
     {
       "w": "jeol2",
       "p": "z o r"
-    },
-    {
-      "w": "jyal2",
-      "p": "j a r"
-    },
-    {
-      "w": "jyul2",
-      "p": "j u r"
-    },
-    {
-      "w": "jyel2",
-      "p": "j e r"
-    },
-    {
-      "w": "jyol2",
-      "p": "j o r"
-    },
-    {
-      "w": "jyael2",
-      "p": "j e r"
-    },
-    {
-      "w": "jyeol2",
-      "p": "j o r"
     },
     {
       "w": "jwal2",
@@ -8450,27 +8194,27 @@
     },
     {
       "w": "chya",
-      "p": "ch y a"
+      "p": "ch a"
     },
     {
       "w": "chyu",
-      "p": "ch y u"
+      "p": "ch u"
     },
     {
       "w": "chye",
-      "p": "ch y e"
+      "p": "ch e"
     },
     {
       "w": "chyo",
-      "p": "ch y o"
+      "p": "ch o"
     },
     {
       "w": "chyae",
-      "p": "ch y e"
+      "p": "ch e"
     },
     {
       "w": "chyeo",
-      "p": "ch y o"
+      "p": "ch o"
     },
     {
       "w": "chwa",
@@ -8499,14 +8243,6 @@
     {
       "w": "cheui",
       "p": "ch w i"
-    },
-    {
-      "w": "chye3",
-      "p": "ch e"
-    },
-    {
-      "w": "chyae3",
-      "p": "ch e"
     },
     {
       "w": "cheui3",
@@ -8546,27 +8282,27 @@
     },
     {
       "w": "chyam",
-      "p": "ch y a m"
+      "p": "ch a m"
     },
     {
       "w": "chyum",
-      "p": "ch y u m"
+      "p": "ch u m"
     },
     {
       "w": "chyem",
-      "p": "ch y e m"
+      "p": "ch e m"
     },
     {
       "w": "chyom",
-      "p": "ch y o m"
+      "p": "ch o m"
     },
     {
       "w": "chyaem",
-      "p": "ch y e m"
+      "p": "ch e m"
     },
     {
       "w": "chyeom",
-      "p": "ch y o m"
+      "p": "ch o m"
     },
     {
       "w": "chwam",
@@ -8595,14 +8331,6 @@
     {
       "w": "cheuim",
       "p": "ch w i m"
-    },
-    {
-      "w": "chyem3",
-      "p": "ch e m"
-    },
-    {
-      "w": "chyaem3",
-      "p": "ch e m"
     },
     {
       "w": "cheuim3",
@@ -8642,27 +8370,27 @@
     },
     {
       "w": "chyan",
-      "p": "ch y a n"
+      "p": "ch a n"
     },
     {
       "w": "chyun",
-      "p": "ch y u n"
+      "p": "ch u n"
     },
     {
       "w": "chyen",
-      "p": "ch y e n"
+      "p": "ch e n"
     },
     {
       "w": "chyon",
-      "p": "ch y o n"
+      "p": "ch o n"
     },
     {
       "w": "chyaen",
-      "p": "ch y e n"
+      "p": "ch e n"
     },
     {
       "w": "chyeon",
-      "p": "ch y o n"
+      "p": "ch o n"
     },
     {
       "w": "chwan",
@@ -8691,14 +8419,6 @@
     {
       "w": "cheuin",
       "p": "ch w i n"
-    },
-    {
-      "w": "chyen3",
-      "p": "ch e n"
-    },
-    {
-      "w": "chyaen3",
-      "p": "ch e n"
     },
     {
       "w": "cheuin3",
@@ -8738,27 +8458,27 @@
     },
     {
       "w": "chyang",
-      "p": "ch y a N"
+      "p": "ch a N"
     },
     {
       "w": "chyung",
-      "p": "ch y u N"
+      "p": "ch u N"
     },
     {
       "w": "chyeng",
-      "p": "ch y e N"
+      "p": "ch e N"
     },
     {
       "w": "chyong",
-      "p": "ch y o N"
+      "p": "ch o N"
     },
     {
       "w": "chyaeng",
-      "p": "ch y e N"
+      "p": "ch e N"
     },
     {
       "w": "chyeong",
-      "p": "ch y o N"
+      "p": "ch o N"
     },
     {
       "w": "chwang",
@@ -8787,14 +8507,6 @@
     {
       "w": "cheuing",
       "p": "ch w i N"
-    },
-    {
-      "w": "chyeng3",
-      "p": "ch e N"
-    },
-    {
-      "w": "chyaeng3",
-      "p": "ch e N"
     },
     {
       "w": "cheuing3",
@@ -8834,27 +8546,27 @@
     },
     {
       "w": "chyap",
-      "p": "ch y a p"
+      "p": "ch a p"
     },
     {
       "w": "chyup",
-      "p": "ch y u p"
+      "p": "ch u p"
     },
     {
       "w": "chyep",
-      "p": "ch y e p"
+      "p": "ch e p"
     },
     {
       "w": "chyop",
-      "p": "ch y o p"
+      "p": "ch o p"
     },
     {
       "w": "chyaep",
-      "p": "ch y e p"
+      "p": "ch e p"
     },
     {
       "w": "chyeop",
-      "p": "ch y o p"
+      "p": "ch o p"
     },
     {
       "w": "chwap",
@@ -8883,14 +8595,6 @@
     {
       "w": "cheuip",
       "p": "ch w i p"
-    },
-    {
-      "w": "chyep3",
-      "p": "ch e p"
-    },
-    {
-      "w": "chyaep3",
-      "p": "ch e p"
     },
     {
       "w": "cheuip3",
@@ -8930,27 +8634,27 @@
     },
     {
       "w": "chyat",
-      "p": "ch y a t"
+      "p": "ch a t"
     },
     {
       "w": "chyut",
-      "p": "ch y u t"
+      "p": "ch u t"
     },
     {
       "w": "chyet",
-      "p": "ch y e t"
+      "p": "ch e t"
     },
     {
       "w": "chyot",
-      "p": "ch y o t"
+      "p": "ch o t"
     },
     {
       "w": "chyaet",
-      "p": "ch y e t"
+      "p": "ch e t"
     },
     {
       "w": "chyeot",
-      "p": "ch y o t"
+      "p": "ch o t"
     },
     {
       "w": "chwat",
@@ -8979,14 +8683,6 @@
     {
       "w": "cheuit",
       "p": "ch w i t"
-    },
-    {
-      "w": "chyet3",
-      "p": "ch e t"
-    },
-    {
-      "w": "chyaet3",
-      "p": "ch e t"
     },
     {
       "w": "cheuit3",
@@ -9026,27 +8722,27 @@
     },
     {
       "w": "chyak",
-      "p": "ch y a k"
+      "p": "ch a k"
     },
     {
       "w": "chyuk",
-      "p": "ch y u k"
+      "p": "ch u k"
     },
     {
       "w": "chyek",
-      "p": "ch y e k"
+      "p": "ch e k"
     },
     {
       "w": "chyok",
-      "p": "ch y o k"
+      "p": "ch o k"
     },
     {
       "w": "chyaek",
-      "p": "ch y e k"
+      "p": "ch e k"
     },
     {
       "w": "chyeok",
-      "p": "ch y o k"
+      "p": "ch o k"
     },
     {
       "w": "chwak",
@@ -9075,14 +8771,6 @@
     {
       "w": "cheuik",
       "p": "ch w i k"
-    },
-    {
-      "w": "chyek3",
-      "p": "ch e k"
-    },
-    {
-      "w": "chyaek3",
-      "p": "ch e k"
     },
     {
       "w": "cheuik3",
@@ -9122,27 +8810,27 @@
     },
     {
       "w": "chyal",
-      "p": "ch y a r"
+      "p": "ch a r"
     },
     {
       "w": "chyul",
-      "p": "ch y u r"
+      "p": "ch u r"
     },
     {
       "w": "chyel",
-      "p": "ch y e r"
+      "p": "ch e r"
     },
     {
       "w": "chyol",
-      "p": "ch y o r"
+      "p": "ch o r"
     },
     {
       "w": "chyael",
-      "p": "ch y e r"
+      "p": "ch e r"
     },
     {
       "w": "chyeol",
-      "p": "ch y o r"
+      "p": "ch o r"
     },
     {
       "w": "chwal",
@@ -9171,14 +8859,6 @@
     {
       "w": "cheuil",
       "p": "ch w i r"
-    },
-    {
-      "w": "chyel3",
-      "p": "ch e r"
-    },
-    {
-      "w": "chyael3",
-      "p": "ch e r"
     },
     {
       "w": "cheuil3",
@@ -9213,36 +8893,12 @@
       "p": "ts o"
     },
     {
-      "w": "chya2",
-      "p": "ch a"
-    },
-    {
-      "w": "chyu2",
-      "p": "ch u"
-    },
-    {
-      "w": "chye2",
-      "p": "ch e"
-    },
-    {
-      "w": "chyo2",
-      "p": "ch o"
-    },
-    {
-      "w": "chyae2",
-      "p": "ch e"
-    },
-    {
-      "w": "chyeo2",
-      "p": "ch o"
-    },
-    {
       "w": "chwa2",
       "p": "ts w a"
     },
     {
       "w": "chwi2",
-      "p": "tsh w i"
+      "p": "ts w i"
     },
     {
       "w": "chwe2",
@@ -9293,36 +8949,12 @@
       "p": "ts o m"
     },
     {
-      "w": "chyam2",
-      "p": "ch a m"
-    },
-    {
-      "w": "chyum2",
-      "p": "ch u m"
-    },
-    {
-      "w": "chyem2",
-      "p": "ch e m"
-    },
-    {
-      "w": "chyom2",
-      "p": "ch o m"
-    },
-    {
-      "w": "chyaem2",
-      "p": "ch e m"
-    },
-    {
-      "w": "chyeom2",
-      "p": "ch o m"
-    },
-    {
       "w": "chwam2",
       "p": "ts w a m"
     },
     {
       "w": "chwim2",
-      "p": "tsh w i m"
+      "p": "ts w i m"
     },
     {
       "w": "chwem2",
@@ -9373,36 +9005,12 @@
       "p": "ts o n"
     },
     {
-      "w": "chyan2",
-      "p": "ch a n"
-    },
-    {
-      "w": "chyun2",
-      "p": "ch u n"
-    },
-    {
-      "w": "chyen2",
-      "p": "ch e n"
-    },
-    {
-      "w": "chyon2",
-      "p": "ch o n"
-    },
-    {
-      "w": "chyaen2",
-      "p": "ch e n"
-    },
-    {
-      "w": "chyeon2",
-      "p": "ch o n"
-    },
-    {
       "w": "chwan2",
       "p": "ts w a n"
     },
     {
       "w": "chwin2",
-      "p": "tsh w i n"
+      "p": "ts w i n"
     },
     {
       "w": "chwen2",
@@ -9453,36 +9061,12 @@
       "p": "ts o N"
     },
     {
-      "w": "chyang2",
-      "p": "ch a N"
-    },
-    {
-      "w": "chyung2",
-      "p": "ch u N"
-    },
-    {
-      "w": "chyeng2",
-      "p": "ch e N"
-    },
-    {
-      "w": "chyong2",
-      "p": "ch o N"
-    },
-    {
-      "w": "chyaeng2",
-      "p": "ch e N"
-    },
-    {
-      "w": "chyeong2",
-      "p": "ch o N"
-    },
-    {
       "w": "chwang2",
       "p": "ts w a N"
     },
     {
       "w": "chwing2",
-      "p": "tsh w i N"
+      "p": "ts w i N"
     },
     {
       "w": "chweng2",
@@ -9533,36 +9117,12 @@
       "p": "ts o p"
     },
     {
-      "w": "chyap2",
-      "p": "ch a p"
-    },
-    {
-      "w": "chyup2",
-      "p": "ch u p"
-    },
-    {
-      "w": "chyep2",
-      "p": "ch e p"
-    },
-    {
-      "w": "chyop2",
-      "p": "ch o p"
-    },
-    {
-      "w": "chyaep2",
-      "p": "ch e p"
-    },
-    {
-      "w": "chyeop2",
-      "p": "ch o p"
-    },
-    {
       "w": "chwap2",
       "p": "ts w a p"
     },
     {
       "w": "chwip2",
-      "p": "tsh w i p"
+      "p": "ts w i p"
     },
     {
       "w": "chwep2",
@@ -9613,36 +9173,12 @@
       "p": "ts o t"
     },
     {
-      "w": "chyat2",
-      "p": "ch a t"
-    },
-    {
-      "w": "chyut2",
-      "p": "ch u t"
-    },
-    {
-      "w": "chyet2",
-      "p": "ch e t"
-    },
-    {
-      "w": "chyot2",
-      "p": "ch o t"
-    },
-    {
-      "w": "chyaet2",
-      "p": "ch e t"
-    },
-    {
-      "w": "chyeot2",
-      "p": "ch o t"
-    },
-    {
       "w": "chwat2",
       "p": "ts w a t"
     },
     {
       "w": "chwit2",
-      "p": "tsh w i t"
+      "p": "ts w i t"
     },
     {
       "w": "chwet2",
@@ -9693,36 +9229,12 @@
       "p": "ts o k"
     },
     {
-      "w": "chyak2",
-      "p": "ch a k"
-    },
-    {
-      "w": "chyuk2",
-      "p": "ch u k"
-    },
-    {
-      "w": "chyek2",
-      "p": "ch e k"
-    },
-    {
-      "w": "chyok2",
-      "p": "ch o k"
-    },
-    {
-      "w": "chyaek2",
-      "p": "ch e k"
-    },
-    {
-      "w": "chyeok2",
-      "p": "ch o k"
-    },
-    {
       "w": "chwak2",
       "p": "ts w a k"
     },
     {
       "w": "chwik2",
-      "p": "tsh w i k"
+      "p": "ts w i k"
     },
     {
       "w": "chwek2",
@@ -9773,36 +9285,12 @@
       "p": "ts o r"
     },
     {
-      "w": "chyal2",
-      "p": "ch a r"
-    },
-    {
-      "w": "chyul2",
-      "p": "ch u r"
-    },
-    {
-      "w": "chyel2",
-      "p": "ch e r"
-    },
-    {
-      "w": "chyol2",
-      "p": "ch o r"
-    },
-    {
-      "w": "chyael2",
-      "p": "ch e r"
-    },
-    {
-      "w": "chyeol2",
-      "p": "ch o r"
-    },
-    {
       "w": "chwal2",
       "p": "ts w a r"
     },
     {
       "w": "chwil2",
-      "p": "tsh w i r"
+      "p": "ts w i r"
     },
     {
       "w": "chwel2",
@@ -16302,27 +15790,27 @@
     },
     {
       "w": "jjya",
-      "p": "cl ch y a"
+      "p": "cl ch a"
     },
     {
       "w": "jjyu",
-      "p": "cl ch y u"
+      "p": "cl ch u"
     },
     {
       "w": "jjye",
-      "p": "cl ch y e"
+      "p": "cl ch e"
     },
     {
       "w": "jjyo",
-      "p": "cl ch y o"
+      "p": "cl ch o"
     },
     {
       "w": "jjyae",
-      "p": "cl ch y e"
+      "p": "cl ch e"
     },
     {
       "w": "jjyeo",
-      "p": "cl ch y o"
+      "p": "cl ch o"
     },
     {
       "w": "jjwa",
@@ -16351,14 +15839,6 @@
     {
       "w": "jjeui",
       "p": "cl ch w i"
-    },
-    {
-      "w": "jjye3",
-      "p": "cl ch e"
-    },
-    {
-      "w": "jjyae3",
-      "p": "cl ch e"
     },
     {
       "w": "jjeui3",
@@ -16398,27 +15878,27 @@
     },
     {
       "w": "jjyam",
-      "p": "cl ch y a m"
+      "p": "cl ch a m"
     },
     {
       "w": "jjyum",
-      "p": "cl ch y u m"
+      "p": "cl ch u m"
     },
     {
       "w": "jjyem",
-      "p": "cl ch y e m"
+      "p": "cl ch e m"
     },
     {
       "w": "jjyom",
-      "p": "cl ch y o m"
+      "p": "cl ch o m"
     },
     {
       "w": "jjyaem",
-      "p": "cl ch y e m"
+      "p": "cl ch e m"
     },
     {
       "w": "jjyeom",
-      "p": "cl ch y o m"
+      "p": "cl ch o m"
     },
     {
       "w": "jjwam",
@@ -16447,14 +15927,6 @@
     {
       "w": "jjeuim",
       "p": "cl ch w i m"
-    },
-    {
-      "w": "jjyem3",
-      "p": "cl ch e m"
-    },
-    {
-      "w": "jjyaem3",
-      "p": "cl ch e m"
     },
     {
       "w": "jjeuim3",
@@ -16494,27 +15966,27 @@
     },
     {
       "w": "jjyan",
-      "p": "cl ch y a n"
+      "p": "cl ch a n"
     },
     {
       "w": "jjyun",
-      "p": "cl ch y u n"
+      "p": "cl ch u n"
     },
     {
       "w": "jjyen",
-      "p": "cl ch y e n"
+      "p": "cl ch e n"
     },
     {
       "w": "jjyon",
-      "p": "cl ch y o n"
+      "p": "cl ch o n"
     },
     {
       "w": "jjyaen",
-      "p": "cl ch y e n"
+      "p": "cl ch e n"
     },
     {
       "w": "jjyeon",
-      "p": "cl ch y o n"
+      "p": "cl ch o n"
     },
     {
       "w": "jjwan",
@@ -16543,14 +16015,6 @@
     {
       "w": "jjeuin",
       "p": "cl ch w i n"
-    },
-    {
-      "w": "jjyen3",
-      "p": "cl ch e n"
-    },
-    {
-      "w": "jjyaen3",
-      "p": "cl ch e n"
     },
     {
       "w": "jjeuin3",
@@ -16590,27 +16054,27 @@
     },
     {
       "w": "jjyang",
-      "p": "cl ch y a N"
+      "p": "cl ch a N"
     },
     {
       "w": "jjyung",
-      "p": "cl ch y u N"
+      "p": "cl ch u N"
     },
     {
       "w": "jjyeng",
-      "p": "cl ch y e N"
+      "p": "cl ch e N"
     },
     {
       "w": "jjyong",
-      "p": "cl ch y o N"
+      "p": "cl ch o N"
     },
     {
       "w": "jjyaeng",
-      "p": "cl ch y e N"
+      "p": "cl ch e N"
     },
     {
       "w": "jjyeong",
-      "p": "cl ch y o N"
+      "p": "cl ch o N"
     },
     {
       "w": "jjwang",
@@ -16639,14 +16103,6 @@
     {
       "w": "jjeuing",
       "p": "cl ch w i N"
-    },
-    {
-      "w": "jjyeng3",
-      "p": "cl ch e N"
-    },
-    {
-      "w": "jjyaeng3",
-      "p": "cl ch e N"
     },
     {
       "w": "jjeuing3",
@@ -16686,27 +16142,27 @@
     },
     {
       "w": "jjyap",
-      "p": "cl ch y a p"
+      "p": "cl ch a p"
     },
     {
       "w": "jjyup",
-      "p": "cl ch y u p"
+      "p": "cl ch u p"
     },
     {
       "w": "jjyep",
-      "p": "cl ch y e p"
+      "p": "cl ch e p"
     },
     {
       "w": "jjyop",
-      "p": "cl ch y o p"
+      "p": "cl ch o p"
     },
     {
       "w": "jjyaep",
-      "p": "cl ch y e p"
+      "p": "cl ch e p"
     },
     {
       "w": "jjyeop",
-      "p": "cl ch y o p"
+      "p": "cl ch o p"
     },
     {
       "w": "jjwap",
@@ -16735,14 +16191,6 @@
     {
       "w": "jjeuip",
       "p": "cl ch w i p"
-    },
-    {
-      "w": "jjyep3",
-      "p": "cl ch e p"
-    },
-    {
-      "w": "jjyaep3",
-      "p": "cl ch e p"
     },
     {
       "w": "jjeuip3",
@@ -16782,27 +16230,27 @@
     },
     {
       "w": "jjyat",
-      "p": "cl ch y a t"
+      "p": "cl ch a t"
     },
     {
       "w": "jjyut",
-      "p": "cl ch y u t"
+      "p": "cl ch u t"
     },
     {
       "w": "jjyet",
-      "p": "cl ch y e t"
+      "p": "cl ch e t"
     },
     {
       "w": "jjyot",
-      "p": "cl ch y o t"
+      "p": "cl ch o t"
     },
     {
       "w": "jjyaet",
-      "p": "cl ch y e t"
+      "p": "cl ch e t"
     },
     {
       "w": "jjyeot",
-      "p": "cl ch y o t"
+      "p": "cl ch o t"
     },
     {
       "w": "jjwat",
@@ -16831,14 +16279,6 @@
     {
       "w": "jjeuit",
       "p": "cl ch w i t"
-    },
-    {
-      "w": "jjyet3",
-      "p": "cl ch e t"
-    },
-    {
-      "w": "jjyaet3",
-      "p": "cl ch e t"
     },
     {
       "w": "jjeuit3",
@@ -16878,27 +16318,27 @@
     },
     {
       "w": "jjyak",
-      "p": "cl ch y a k"
+      "p": "cl ch a k"
     },
     {
       "w": "jjyuk",
-      "p": "cl ch y u k"
+      "p": "cl ch u k"
     },
     {
       "w": "jjyek",
-      "p": "cl ch y e k"
+      "p": "cl ch e k"
     },
     {
       "w": "jjyok",
-      "p": "cl ch y o k"
+      "p": "cl ch o k"
     },
     {
       "w": "jjyaek",
-      "p": "cl ch y e k"
+      "p": "cl ch e k"
     },
     {
       "w": "jjyeok",
-      "p": "cl ch y o k"
+      "p": "cl ch o k"
     },
     {
       "w": "jjwak",
@@ -16927,14 +16367,6 @@
     {
       "w": "jjeuik",
       "p": "cl ch w i k"
-    },
-    {
-      "w": "jjyek3",
-      "p": "cl ch e k"
-    },
-    {
-      "w": "jjyaek3",
-      "p": "cl ch e k"
     },
     {
       "w": "jjeuik3",
@@ -16974,27 +16406,27 @@
     },
     {
       "w": "jjyal",
-      "p": "cl ch y a r"
+      "p": "cl ch a r"
     },
     {
       "w": "jjyul",
-      "p": "cl ch y u r"
+      "p": "cl ch u r"
     },
     {
       "w": "jjyel",
-      "p": "cl ch y e r"
+      "p": "cl ch e r"
     },
     {
       "w": "jjyol",
-      "p": "cl ch y o r"
+      "p": "cl ch o r"
     },
     {
       "w": "jjyael",
-      "p": "cl ch y e r"
+      "p": "cl ch e r"
     },
     {
       "w": "jjyeol",
-      "p": "cl ch y o r"
+      "p": "cl ch o r"
     },
     {
       "w": "jjwal",
@@ -17023,14 +16455,6 @@
     {
       "w": "jjeuil",
       "p": "cl ch w i r"
-    },
-    {
-      "w": "jjyel3",
-      "p": "cl ch e r"
-    },
-    {
-      "w": "jjyael3",
-      "p": "cl ch e r"
     },
     {
       "w": "jjeuil3",
@@ -17065,36 +16489,12 @@
       "p": "cl ts o"
     },
     {
-      "w": "jjya2",
-      "p": "cl ch a"
-    },
-    {
-      "w": "jjyu2",
-      "p": "cl ch u"
-    },
-    {
-      "w": "jjye2",
-      "p": "cl ch e"
-    },
-    {
-      "w": "jjyo2",
-      "p": "cl ch o"
-    },
-    {
-      "w": "jjyae2",
-      "p": "cl ch e"
-    },
-    {
-      "w": "jjyeo2",
-      "p": "cl ch o"
-    },
-    {
       "w": "jjwa2",
       "p": "cl ts w a"
     },
     {
       "w": "jjwi2",
-      "p": "cl tsh w i"
+      "p": "cl ts w i"
     },
     {
       "w": "jjwe2",
@@ -17145,36 +16545,12 @@
       "p": "cl ts o m"
     },
     {
-      "w": "jjyam2",
-      "p": "cl ch a m"
-    },
-    {
-      "w": "jjyum2",
-      "p": "cl ch u m"
-    },
-    {
-      "w": "jjyem2",
-      "p": "cl ch e m"
-    },
-    {
-      "w": "jjyom2",
-      "p": "cl ch o m"
-    },
-    {
-      "w": "jjyaem2",
-      "p": "cl ch e m"
-    },
-    {
-      "w": "jjyeom2",
-      "p": "cl ch o m"
-    },
-    {
       "w": "jjwam2",
       "p": "cl ts w a m"
     },
     {
       "w": "jjwim2",
-      "p": "cl tsh w i m"
+      "p": "cl ts w i m"
     },
     {
       "w": "jjwem2",
@@ -17225,36 +16601,12 @@
       "p": "cl ts o n"
     },
     {
-      "w": "jjyan2",
-      "p": "cl ch a n"
-    },
-    {
-      "w": "jjyun2",
-      "p": "cl ch u n"
-    },
-    {
-      "w": "jjyen2",
-      "p": "cl ch e n"
-    },
-    {
-      "w": "jjyon2",
-      "p": "cl ch o n"
-    },
-    {
-      "w": "jjyaen2",
-      "p": "cl ch e n"
-    },
-    {
-      "w": "jjyeon2",
-      "p": "cl ch o n"
-    },
-    {
       "w": "jjwan2",
       "p": "cl ts w a n"
     },
     {
       "w": "jjwin2",
-      "p": "cl tsh w i n"
+      "p": "cl ts w i n"
     },
     {
       "w": "jjwen2",
@@ -17305,36 +16657,12 @@
       "p": "cl ts o N"
     },
     {
-      "w": "jjyang2",
-      "p": "cl ch a N"
-    },
-    {
-      "w": "jjyung2",
-      "p": "cl ch u N"
-    },
-    {
-      "w": "jjyeng2",
-      "p": "cl ch e N"
-    },
-    {
-      "w": "jjyong2",
-      "p": "cl ch o N"
-    },
-    {
-      "w": "jjyaeng2",
-      "p": "cl ch e N"
-    },
-    {
-      "w": "jjyeong2",
-      "p": "cl ch o N"
-    },
-    {
       "w": "jjwang2",
       "p": "cl ts w a N"
     },
     {
       "w": "jjwing2",
-      "p": "cl tsh w i N"
+      "p": "cl ts w i N"
     },
     {
       "w": "jjweng2",
@@ -17385,36 +16713,12 @@
       "p": "cl ts o p"
     },
     {
-      "w": "jjyap2",
-      "p": "cl ch a p"
-    },
-    {
-      "w": "jjyup2",
-      "p": "cl ch u p"
-    },
-    {
-      "w": "jjyep2",
-      "p": "cl ch e p"
-    },
-    {
-      "w": "jjyop2",
-      "p": "cl ch o p"
-    },
-    {
-      "w": "jjyaep2",
-      "p": "cl ch e p"
-    },
-    {
-      "w": "jjyeop2",
-      "p": "cl ch o p"
-    },
-    {
       "w": "jjwap2",
       "p": "cl ts w a p"
     },
     {
       "w": "jjwip2",
-      "p": "cl tsh w i p"
+      "p": "cl ts w i p"
     },
     {
       "w": "jjwep2",
@@ -17465,36 +16769,12 @@
       "p": "cl ts o t"
     },
     {
-      "w": "jjyat2",
-      "p": "cl ch a t"
-    },
-    {
-      "w": "jjyut2",
-      "p": "cl ch u t"
-    },
-    {
-      "w": "jjyet2",
-      "p": "cl ch e t"
-    },
-    {
-      "w": "jjyot2",
-      "p": "cl ch o t"
-    },
-    {
-      "w": "jjyaet2",
-      "p": "cl ch e t"
-    },
-    {
-      "w": "jjyeot2",
-      "p": "cl ch o t"
-    },
-    {
       "w": "jjwat2",
       "p": "cl ts w a t"
     },
     {
       "w": "jjwit2",
-      "p": "cl tsh w i t"
+      "p": "cl ts w i t"
     },
     {
       "w": "jjwet2",
@@ -17545,36 +16825,12 @@
       "p": "cl ts o k"
     },
     {
-      "w": "jjyak2",
-      "p": "cl ch a k"
-    },
-    {
-      "w": "jjyuk2",
-      "p": "cl ch u k"
-    },
-    {
-      "w": "jjyek2",
-      "p": "cl ch e k"
-    },
-    {
-      "w": "jjyok2",
-      "p": "cl ch o k"
-    },
-    {
-      "w": "jjyaek2",
-      "p": "cl ch e k"
-    },
-    {
-      "w": "jjyeok2",
-      "p": "cl ch o k"
-    },
-    {
       "w": "jjwak2",
       "p": "cl ts w a k"
     },
     {
       "w": "jjwik2",
-      "p": "cl tsh w i k"
+      "p": "cl ts w i k"
     },
     {
       "w": "jjwek2",
@@ -17625,36 +16881,12 @@
       "p": "cl ts o r"
     },
     {
-      "w": "jjyal2",
-      "p": "cl ch a r"
-    },
-    {
-      "w": "jjyul2",
-      "p": "cl ch u r"
-    },
-    {
-      "w": "jjyel2",
-      "p": "cl ch e r"
-    },
-    {
-      "w": "jjyol2",
-      "p": "cl ch o r"
-    },
-    {
-      "w": "jjyael2",
-      "p": "cl ch e r"
-    },
-    {
-      "w": "jjyeol2",
-      "p": "cl ch o r"
-    },
-    {
       "w": "jjwal2",
       "p": "cl ts w a r"
     },
     {
       "w": "jjwil2",
-      "p": "cl tsh w i r"
+      "p": "cl ts w i r"
     },
     {
       "w": "jjwel2",
