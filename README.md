@@ -1,4 +1,5 @@
 # JPN2KOR SynthV dictionary
+**THIS IS NO LONGER BEING UPDATED!!! Please check [this](https://github.com/latticenail/korean-dicts-synthv) instead.**
 Korean dictionary for Japanese SynthV voicebanks.
 ## How to use
 The dictionary entries are romanized, although there might be future hangul input as well. *It's advised to phoneme edit accordingly rather than plug-and-play.*
